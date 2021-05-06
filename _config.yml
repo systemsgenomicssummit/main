@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Systems Genomics Summit 2021"
 email: "devfest@gdg.org.u"
 description: "Systems Genomics Summit will highlight research that falls under the umbrella of computational genomics and systems biology"
-baseurl: "/zeppelin"
+baseurl: "/main"
 url: "https://systemsgenomicssummit.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Systems Genomics <typeout>"
-eventDate: "December 2nd - 3rd"
+eventDate: "December 2nd - 3rd 2021"
 typeoutTextValues: '"", "Summit"'
 typeoutFallback: "2021"
 heroButtons:
