@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Systems Genomics Summit"
 eventDate: "December 2nd - 3rd 2021"
-typeoutTextValues: '"", "Summit"'
+typeoutTextValues: '""'
 typeoutFallback: "2021"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
