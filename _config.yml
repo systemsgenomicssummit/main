@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Systems Genomics Summit 2021"
 email: "devfest@gdg.org.u"
 description: "Systems Genomics Summit will highlight research that falls under the umbrella of computational genomics and systems biology"
-baseurl: "/zeppelin"
+baseurl: ""
 url: "https://systemsgenomicssummit.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -21,8 +21,8 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "CRT Genomics Data Science"
+organizerAlternateName: "SFI Centre for Research Training in Genomics Data Science"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -58,11 +58,11 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Systems Genomics Summit"
 eventDate: "December 2nd - 3rd 2021"
-typeoutTextValues: '""'
-typeoutFallback: "2021"
+#typeoutTextValues: '""'
+#typeoutFallback: "2021"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Submit abstract"}
+ - {permalink: "/#tickets", text: "Register"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -70,6 +70,13 @@ aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -80,13 +87,7 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
-
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+latestNewsTitle: "Background"
 
 # Location Block
 locationBlockTitle: "Location"
