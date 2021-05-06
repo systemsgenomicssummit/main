@@ -10,11 +10,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Genomics Summit 2021"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Systems Genomics Summit 2021"
+email: "devfest@gdg.org.u"
+description: "Systems Genomics Summit will highlight research that falls under the umbrella of computational genomics and systems biology"
 baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+url: "https://systemsgenomicssummit.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
