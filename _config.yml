@@ -15,7 +15,7 @@ email: "gensysbioconf@nuigalway.ie"
 description: "Systems Genomics Summit is a student-led genomics conference scheduled for December 2021 in Galway, Ireland. We are looking forward to hosting world-class speakers working on research covering different areas in genomics and systems biology. We will have talks covering a wide range of themes, including Methods Development and Systems Biology, Metagenomics and Agrigenomics, Evolution and Population Genomics, and Health and Disease Genomics. In previous years, this conference was hosted at University College Dublin (online in 2020!) as the Computational Genomics and Molecular/Systems Biology Summit."
 baseurl: "/main"
 url: "https://systemsgenomicssummit.github.io"
-permalink: "/about/:title"
+permalink: "/blog/:title"
 googleAnalyticsTrackingId: "G-EXJ1QJR4T0"
 googleAnalyticsSiteUrl: "systemsgenomicssummit.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/about/", text: "About"}
+ - {permalink: "/blog/", text: "About"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -194,9 +194,9 @@ footerBlocks:
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
-# About
-aboutTitle: "Latest news"
-aboutCommentsEnabled: true
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
 discusShortName: "devfestua"
 
 # Speakers List Block
