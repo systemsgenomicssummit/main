@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.jpg" # change this to symp icon
 heroTitle: "Systems Genomics Summit"
 eventDate: "December 2nd - 3rd 2021"
 #typeoutTextValues: '""'
