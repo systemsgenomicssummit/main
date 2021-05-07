@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Systems Genomics Summit 2021"
 email: "gensysbioconf@nuigalway.ie"
 description: "Systems Genomics Summit will highlight research that falls under the umbrella of computational genomics and systems biology"
-baseurl: "/"
+baseurl: "/systemsgenomicssummit.github.io"
 url: "https://systemsgenomicssummit.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "G-EXJ1QJR4T0"
