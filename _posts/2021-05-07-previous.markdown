@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Previous Years"
+date:   2021-05-07 14:35:00
+isStaticPost: false
+---
+
+The first iteration of this conference was the X symposium in 2010, hosted in the Conway Institute in University College Dublin. Since then, the symposium has been a yearly event organized by PhD students in UCD, hosting researchers such as (insert big names here?).
+
+Last year, the SFI Center for Research Training in Genomics Data Science became a partner of the symposium, with several PhD students from the program joining the organizing committee along with UCD students. Due to the pandemic, the symposium was held online in 2020. This year will be a big one for the symposium, with a change of name, logo, and (hopefully) the return of in-person talks. We are looking forward to welcoming researchers to Galway in December for another round of exciting talks at the Systems Genomics Summit!
+
+
+
