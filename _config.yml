@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Systems Genomics Summit 2021"
 email: "gensysbioconf@nuigalway.ie"
-description: "Systems Genomics Summit will highlight research that falls under the umbrella of computational genomics and systems biology"
+description: "Systems Genomics Summit is a student-led genomics conference scheduled for December 2021 in Galway, Ireland. We are looking forward to hosting world-class speakers working on research covering different areas in genomics and systems biology. We will have talks covering a wide range of themes, including Methods Development and Systems Biology, Metagenomics and Agrigenomics, Evolution and Population Genomics, and Health and Disease Genomics. In previous years, this conference was hosted at University College Dublin (online in 2020!) as the Computational Genomics and Molecular/Systems Biology Summit."
 baseurl: "/main"
 url: "https://systemsgenomicssummit.github.io"
 permalink: "/blog/:title"
@@ -203,8 +203,9 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Previous Years"
+aboutUs: "The first iteration of this conference was the X symposium in 2010, hosted in the Conway Institute in University College Dublin. Since then, the symposium has been a yearly event organized by PhD students in UCD, hosting researchers such as (insert big names here?).
+Last year, the SFI Center for Research Training in Genomics Data Science became a partner of the symposium, with several PhD students from the program joining the organizing committee along with UCD students. Due to the pandemic, the symposium was held online in 2020. This year will be a big one for the symposium, with a change of name, logo, and (hopefully) the return of in-person talks. We are looking forward to welcoming researchers to Galway in December for another round of exciting talks at the Systems Genomics Summit!"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
