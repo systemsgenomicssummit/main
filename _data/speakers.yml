@@ -1,32 +1,26 @@
 - 
   id: 3
-  name: "Philippe"
-  surname: "Lemey"
-  company: "K.U. Leuven"
-  title: "Prinicipal Investigator"
-  bio: "Philippe Lemey's research interests lie in the fields of molecular epidemiology, computational biology and viral evolution. His team studies evolutionary processes that shape viral genetic diversity, spanning from large-scale epidemic processes, such as population growth and spatial dispersal, to small-scale transmission histories and within-host evolutionary processes, including adaptation and recombination. To investigate these different aspects of viral evolution, the team develops and integrates both molecular and computational biology approaches. The team is an important contributor to BEAST ([https://github.com/beast-dev/beast-mcmc](https://github.com/beast-dev/beast-mcmc)), a state-of-the-art Bayesian inference software and has developed phylodynamic models that are widely used for inference of temporal, spatial and adaptation dynamics of virus epidemics."
-  thumbnailUrl: PhilippeLemey.jpeg
+  name: "Dawid"
+  surname: "Ostrowski"
+  company: "Google Poland"
+  title: "Developer Relations Program Manager"
+  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
+  thumbnailUrl: DawidOstrowski.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/lemeylab"}
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 4
-  name: "Gary"
-  surname: "Hardiman"
-  company: "Queens University Belfast"
-  title: "Professor"
-  bio: 'Prof. Gary Hardiman joined the Faculty of Medicine, Health and Life Sciences and Institute for Global Food Security (IGFS) at Queen’s University Belfast in 2018 as the Chair in Food Systems Biology. His laboratory at QUB works in the field of systems biology the objective of which is the study of biological systems, including genes, RNAs, proteins, metabolites, and cells in a focused manner, and organs, organisms, and populations in a broader context. Current areas of research focus are studying the effects of microplastics on marine and human health; prostate cancer in the context of racial differences and nutritional deficiency; examining the impacts of long-term space travel – specifically the effects of nutrition, torpor, space radiation and microgravity on hepatic and intestinal biology; developing a rat model of opioid abuse; optimizing toolkits for better integration of Omics data sets into genotype-phenotype predictions; and computational analysis to interpret the development of metabolic diseases mediated by non-coding RNAs. Hardiman is co-founder and CTO of the Northern Ireland based precision medicine company Altomics Datamation Ltd.
-
-Before moving to Belfast, Hardiman spent his academic career in California and South Carolina, USA. Most recently Hardiman was Scientific Director of the Center for Genomics Medicine Bioinformatics and a full professor in the Departments of Medicine and Public Health Sciences at The Medical University of South Carolina. He was also Head, Laboratory for Marine Systems Biology, Hollings Marine Laboratory, an Adjunct Professor & Visiting Scholar, Grice Marine Laboratory, College of Charleston. He held faculty appointments at the Bioinformatics & Medical Informatics Research Center (BMIRC) and Computational Science Research Center (CSRC), San Diego State University, San Diego and the Department of Medicine at University of California, San Diego. He was the Founding Director of the UCSD Biomedical Genomics Facility (BIOGEM). He served on the advisory boards of several companies including OnRamp Bioinformatics, San Diego, CA; Axikin, La Jolla, CA; Autogenomics, Carlsbad, CA; Molecular Stamping, Trento, Italy. Before returning to academia in 2000, he worked in the biotech industry as a Senior Scientist, at Axys Pharmaceuticals (Quest Diagnostics) in Cambridge, MA; La Jolla, CA & San Francisco, CA.
-
-Hardiman received his BSc. Hons. & Ph.D. degrees in Microbiology/Molecular Biology from the National University of Ireland Galway (NUIG) in 1989 and 1993, respectively. He was a University of California/National University of Ireland Education Abroad Scholar and received graduate training at the University of California, Santa Cruz (1992). He completed two post-doctoral research fellowships at DNAX Research Institute (MERCK), Palo Alto, CA (1993-1998) in genomics and bioinformatics.
-
-Hardiman serves on the editorial board of the journals ‘Pharmacogenomics’, ‘Expert Review of Molecular Diagnostics’, ACS ES&T Water, Science of the Total Environment (STOTEN), and the MDPI published journals ‘Genes’ and ‘Biotech’ and is an associate editor of ‘Frontiers in Psychiatry -Psychopharmacology’. He has edited three books on genomics technologies, ‘Microarray Methods and Applications’ published by DNA Press, Inc. (2003), ‘Biochips as Pathways to Drug Discovery’ with Dr. Andrew Carmen, published by CRC Press (2007) and ‘Microarray Innovations - Technology & Experimentation’ (2009). He has collaborated with NASA GeneLab, The Gulf of Mexico Research Initiative (GoMRI) on the Deepwater Horizon incident, and the Lipid Maps Consortium.'
-  thumbnailUrl: garyh.jpg
+  name: "Dmytro"
+  surname: "Danylyk"
+  company: "Lemberg Solutions Limited"
+  title: "Android Developer"
+  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+  thumbnailUrl: DmytroDanylyk.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "twitter.com/ghardiman"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
