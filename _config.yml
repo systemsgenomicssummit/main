@@ -29,14 +29,14 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "genomics, genetics, bioinformatics, data science, ireland, research, systems, biology, biotech"
+twitterAccount: "@SysGenSummit"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://bit.ly/dfua-c4p" # call for papers
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -48,29 +48,28 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+   # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Submit abstract"} # link to abstract submission
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Submit abstract"} # link to abstract submission
 
 # Hero Block
-heroImage: "hero.jpg" # change this to symp icon
+heroImage: "hero.jpg" # edit size of symp text
 heroTitle: ""
-eventDate: "December 2nd - 3rd 2021"
-#typeoutTextValues: '""'
-#typeoutFallback: "2021"
-heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Submit abstract"}
- - {permalink: "/#tickets", text: "Register"}
+eventDate: ""
+typeoutTextValues: '""'
+typeoutFallback: "2021"
+# heroButtons: # comment to remove buttons
+ # - {link: "https://bit.ly/dfua-c4p", text: "Submit abstract"}
+ # - {permalink: "/#tickets", text: "Register"}
 
 # About Block
-aboutTitle: "About Systems Genomics Summit"
+aboutTitle: "Systems Genomics Summit"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Community", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
-
+ - {title: "Student-led", image: "conference.jpg", text: "This format and speakers have been carefully crafted by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
+ - {title: "Computational genomics", image: "genomics.jpg", text: "" }
+ - {title: "Systems biology", image: "systems-biology-1.jpg", text: "" }
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
