@@ -2,7 +2,7 @@
 layout: post
 title:  "Previous Years"
 date:   2021-05-07 14:35:00
-isStaticPost: false
+isStaticPost: True
 ---
 
 The first iteration of this conference was the X symposium in 2010, hosted in the Conway Institute in University College Dublin. Since then, the symposium has been a yearly event organized by PhD students in UCD, hosting researchers such as (insert big names here?).
