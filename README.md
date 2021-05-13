@@ -11,6 +11,8 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
 #### Automated version with Grunt <https://github.com/gdg-x/zeppelin-grunt>
 
+dsadsad
+
 ### Features
 * Easy to setup
 * Simple and responsive design
@@ -18,6 +20,8 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 * SVG icons
 * SEO friendly
 
+
+### TEST PUSH
 
 ### Quick-start guide
 1. [Fork](https://github.com/gdg-x/zeppelin/fork) this repo
