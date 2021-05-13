@@ -67,9 +67,9 @@ typeoutFallback: "2021"
 # About Block
 aboutTitle: "Systems Genomics Summit"
 aboutBlock:
- - {title: "Student-led", image: "conference.jpg", text: "This format and speakers have been carefully crafted by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
- - {title: "Computational genomics", image: "genomics.jpg", text: "" }
- - {title: "Systems biology", image: "systems-biology-1.jpg", text: "" }
+ - {title: "Student-led", image: "grad.jpeg", text: "Replace image. The format and speakers for the summit have been carefully crafted by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
+ - {title: "Computational Genomics", image: "genomics.jpg", text: "text text text text" }
+ - {title: "Systems Biology", image: "systems-biology-1.jpg", text: "text text text text" }
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -77,52 +77,53 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
-# Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
-
 # Latest News Block
 latestNewsTitle: "Background"
 
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "350", specialCharacter: "+", info: "attendees", detail: "removing"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "removing"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "removing"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "removing"}
+
+
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventLocationName: "NUI Galway"
+eventLocationLink: "http://www.nuigalway.ie/"
+eventStreetAddress: "University Road"
+eventAddressLocality: "Galway"
+eventAddressLocalityRegion: "Galway"
+eventPostalCode: "H91W5P7"
+eventAddressCountry: "Ireland"
+eventStartTime: "2021-12-02T10:00"
+eventDoorTime: "10:00"
+eventEndTime: "2021-12-03T20:00"
+eventPlaceCoordinates: "53.278671450000004, -9.059193370039853"
+mapCenterCoordinates: "53.278671450000004, -9.059193370039853"
+mapMobileCenterCoordinates: "53.278671450000004, -9.059193370039853"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
+venueBigImage: "NUIG_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "NUI Galway"
+venueFeatures: ["Host university of SFI CRT in Genomics Data Science", "Located close to Galway city centre", "Food provided"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "SGS21"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "sysgen21"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersTitle: "Sponsors"
+#partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -194,8 +195,8 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Symposium Origin and Previous Years"
-blogCommentsEnabled: true
+blogTitle: "Origin and Past Events"
+blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
