@@ -56,8 +56,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg" # edit size of symp text
-heroTitle: ""
-eventDate: ""
+heroTitle: "Systems Genomics Summit"
+eventDate: "Dec 2nd - 3rd 2021"
 typeoutTextValues: '""'
 typeoutFallback: "2021"
 # heroButtons: # comment to remove buttons
