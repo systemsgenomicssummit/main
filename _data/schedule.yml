@@ -39,7 +39,8 @@
     }
     - {
         startTime: "12:15",
-        endTime: "13:00"
+        endTime: "13:00",
+        sessionIds: [503]
     }
     - {
         startTime: "13:00",

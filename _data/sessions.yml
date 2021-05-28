@@ -9,6 +9,7 @@
   title: "Lunch Break"
   place: "Dining room"
   service: true
+
 -
   id: 001
   title: "Material design: Visual style and imagery"
@@ -16,7 +17,7 @@
   subtype: workshop
   speakers: [3, 6]
   language: en
-  complexity: "Intermediate"
+  theme: "Intermediate"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
@@ -25,7 +26,7 @@
   subtype: presentation
   speakers: [4, 5]
   language: en
-  complexity: "Intermediate" 
+  theme: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -35,7 +36,7 @@
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
+  theme: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
@@ -44,7 +45,7 @@
   subtype: keynote
   speakers: [6]
   language: uk
-  complexity: "Beginner"
+  theme: "Beginner"
   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -54,6 +55,6 @@
   subtype: keynote
   speakers: [7]
   language: en
-  complexity: "Expert"
+  theme: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
