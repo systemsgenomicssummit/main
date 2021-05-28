@@ -117,7 +117,7 @@ venueFeatures: ["Host university of SFI CRT in Genomics Data Science", "Located 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "sysgen21"
+twitterHashTag: "SysGen21"
 twitterFeed: ""
 
 # Partners Block
