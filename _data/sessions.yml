@@ -111,13 +111,6 @@
   #speakers:
   #theme:
 -
-  id: 307
-  title: "Poster session"
-  description: ""
-  subtype: presentation
-  #speakers:
-  #theme:
--
   id: 001
   title: "Philippe Lemey"
   description: ""
