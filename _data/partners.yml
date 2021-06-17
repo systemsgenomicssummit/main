@@ -1,14 +1,18 @@
 - 
-  group: "General sponsor"
+  group: "Funded by"
   elements: 
     - {name: "SFI CRT GDS", description: "SFI Centre for Research Training in Genomics Data Science", link: "https://genomicsdatascience.ie/", imageUrl: "GDS.svg"}
     - {name: "SFI", description: "Science Foundation Ireland", link: "https://www.sfi.ie/", imageUrl: "SFI.svg"}
+    - {name: "Systems Biology Ireland", description: "Systems Biology Ireland PhD program in Bioinformatics", link: "https://www.ucd.ie/sbi/", imageUrl: "ucd.svg"}
+
 - 
   group: "With support of"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
+    - {name: "Systems Biology Ireland", description: "Systems Biology Ireland PhD program in Bioinformatics", link: "https://www.ucd.ie/sbi/", imageUrl: "ucd.svg"}
+
 - 
   group: "Partners"
   elements: 
