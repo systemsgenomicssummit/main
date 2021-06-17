@@ -25,49 +25,66 @@ Hardiman serves on the editorial board of the journals ‘Pharmacogenomics’, �
   thumbnailUrl: garyh.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "twitter.com/ghardiman"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+ #  - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Orla"
+  surname: "O'Sullivan"
+  company: "APC Microbiome"
+  title: "Research Fellow"
+  bio: "TBC - we got project description."
+  thumbnailUrl: Orla_O_Sullivan.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  # ribbon: 
+  #  - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+  #   - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "twitter", link: "https://twitter.com/orlaos?lang=en"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Clare"
+  surname: "West"
+  company: "University of Oxford"
+  title: "Postdoctoral Informatics Scientist"
+  bio: "Clare West is a computational biologist with experience in structural biology and drug discovery. Her postdoctoral research aimed to harness publicly available data to identify and prioritise tractable drug targets within the mechanisms linking ageing and age-related diseases, in collaboration with UK SPINE, the Centre for Medicines Discovery (CMD) at the University of Oxford, and Open Targets at EMBL-EBI. She has a BSc in Biochemistry (University of Nottingham) and a PhD in Protein Informatics (Department of Statistics, University of Oxford) focussing on template-free protein structure prediction."
+  thumbnailUrl: ClareWest.jpeg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+  #   - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "twitter", link: "http://twitter.com/claree_west"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Dan"
+  surname: "Bradley"
+  company: "Trinity College Dublin"
+  title: "Professor and Head of School of Genetics and Microbiology"
+  bio: "His research interests include detection of signatures of selection in human, bovine, salmon and chicken genomes, Irish human population structure, Y chromosome diversity and Irish medieval genealogies, ancient DNA, origins of livestock as discerned using genetic diversity, genetic basis of disease resistance in West African cattle, haplotype decay and the age of cattle hybrid zones, and detection of recombination in mitochondrial genomes."
+  thumbnailUrl: DanBradley.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "https://www.tcd.ie/Genetics/molpopgen/dan.php"}
+-
+  id: 8
+  name: "Niamh"
+  surname: "Mullins"
+  company: "Icahn School of Medicine, Mount Sinai"
+  title: "Associate Professor"
+  bio: "Niamh Mullins is Associate Professor at the Icahn School of Medicine, Mount Sinai. Her research interests lie in psychiatric genetics, including the psychiatric basis of bipolar disorder, depression, and schizophrenia. She graduated with a PhD from King's College London in 2017 and is now working with the Bipolar Disorder Working Group of the Psychiatric Genomics Consortium."
+  thumbnailUrl: DanBradley.jpg
+  rockstar: true
+  # ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+     - {name: "twitter", link: "https://twitter.com/niamhamullins?lang=en"}
+
+
+
