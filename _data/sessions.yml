@@ -1,60 +1,81 @@
 -
   id: 307
   title: "Coffee Break"
-  place: "Hall"
+  # place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
   id: 503
   title: "Lunch Break"
-  place: "Dining room"
+  # place: "Dining room"
   service: true
 
 -
   id: 001
-  title: "Human Health & Disease"
+  title: "Philippe Lemey"
   description: ""
   subtype: presentation
-  speakers: [3, 6]
+  speakers: [3]
   # language: en
-  # theme: "Intermediate"
+  theme: "Evolution and Population Genomics"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Population Genomics & Evolution"
-  description: ""
+  title: "Orla O'Sullivan"
+  description: "The human intestinal tract is host to an extensive population of microorganisms working in 
+  concert to play a pivotal role in human health. Almost every aspect of modern lifestyles can 
+  impact the gut microbiota; recently diet and fitness have been established as important 
+  modulators. Previously, we observed that elite athletes have significantly increased gut 
+  microbial diversity compared to non-athlete controls. Functional metagenomic analysis 
+  revealed this elevated diversity translated into the athletes’ microbiome being primed for 
+  energy harvest as well as muscle and tissue repair. However, a subsequent 8-week exercise 
+  intervention study failed to reproduce the same high microbial diversity. This lead us to 
+  hypothesize that it’s physical fitness, not exercise, that is pivotal to increased microbial 
+  diversity. We propose to mine datasets to identify “fitness” associated microbes and 
+  metabolites and investigate their implications for human health."
   subtype: presentation
-  speakers: [4, 5]
-  language: en
-  theme: "Intermediate" 
+  speakers: [5]
+  # language: en
+  theme: "Metagenomics" 
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Metagenomics"
-  description: ""
+  title: "Clare West"
+  description: "Health and disease genomics"
   subtype: presentation
-  speakers: [4]
-  language: en
+  speakers: [6]
+  # language: en
   # theme: "Intermediate" 
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Agrigenomics & Microbial Genomics and Methods Development"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  theme: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Gary Hardiman"
+  description: ""
+  subtype: presentation
+  speakers: [4]
+  # language: uk
+  theme: "Methods development and systems biology"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Machine Learning & Systems Biology"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Dan Bradley"
+  description: ""
   subtype: keynote
   speakers: [7]
-  language: en
-  theme: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #language: en
+  theme: "Population Genomics & Evolution"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "Niamh Mullins"
+  description: ""
+  subtype: keynote
+  speakers: [8]
+  #language: en
+  theme: "Human Health & Disease"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
