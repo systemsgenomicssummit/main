@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
    # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://forms.gle/uNDr1Kyg4Bga1sV58", text: "Submit abstract"} # link to abstract submission
+ - {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Submit abstract"} # link to abstract submission
 rightNavigationButtons:
- - {link: "https://forms.gle/uNDr1Kyg4Bga1sV58", text: "Submit abstract"} # link to abstract submission
+ - {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Submit abstract"} # link to abstract submission
 
 # Hero Block
 heroImage: "hero.jpg" # edit size of symp text
