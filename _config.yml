@@ -65,7 +65,7 @@ typeoutFallback: "2021"
  # - {permalink: "/#tickets", text: "Register"}
 
 # About Block
-aboutTitle: "Systems Genomics Summit"
+aboutTitle: "About #SysGen21"
 aboutBlock:
  - {title: "Student-led", image: "grad.jpeg", text: "Replace image. The format and speakers for the summit have been carefully crafted by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
  - {title: "Computational Genomics", image: "genomics.jpg", text: "text text text text" }
