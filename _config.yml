@@ -75,7 +75,7 @@ aboutBlock:
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Speakers"
-#rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Latest News Block
 latestNewsTitle: "Background"
@@ -145,8 +145,8 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in."
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  #  validFrom: "2014-08-25T10:00"
+  # validThrough: "2014-09-30T23:59"
  -
   name: "Academic"
   price: "30"
