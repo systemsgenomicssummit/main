@@ -73,9 +73,9 @@ aboutBlock:
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Speakers"
-rockstarSpeakersButtonText: "See all speakers"
+#rockstarSpeakersButtonText: "See all speakers"
 
 # Latest News Block
 latestNewsTitle: "Background"
