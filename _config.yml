@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
    # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Submit abstract"} # link to abstract submission
+ - {link: "", text: "Submit abstract"} # link to abstract submission
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Submit abstract"} # link to abstract submission
+ - {link: "", text: "Submit abstract"} # link to abstract submission
 
 # Hero Block
 heroImage: "hero.jpg" # edit size of symp text
