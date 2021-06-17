@@ -1,23 +1,30 @@
 - 
   date: "2021-12-02"
-  dateReadable: "December 2"
+  dateReadable: "December 2 - 3rd"
   tracks: 
-    - {title: "Human Health & Disease", color: "#90be4e"}
-      # - {title: "Population Genomics & Evolution", color: "#03a9f4"}
+    - {title: "Day 1", color: "#90be4e"}
+    - {title: "Day 2", color: "#03a9f4"}
       #- {title: "Metagenomics", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "08:00",
     	endTime: "09:00",
-    	sessionIds: [002, 003, 004]
+    	sessionIds: [101]
     }
     - {
-        startTime: "09:20",
-        endTime: "10:20" 
+        startTime: "09:00",
+        endTime: "09:20",
+        sessionIds: [102] 
     } 
     - {
-        startTime: "10:20",
-        endTime: "10:40"
+        startTime: "09:20",
+        endTime: "10:20",
+        sessionIds: [001, 002]
+    }
+    - { 
+       startTime: "10:20",
+       endTime: "10:40",
+       sessionIds: [201, 301]
     }
     - {
     	startTime: "10:40",
@@ -27,15 +34,17 @@
     - {
         startTime: "10:50",
         endTime: "11:10",
-        sessionIds: [307]
+        sessionIds: [202,302]
     }
     - {
         startTime: "11:10",
-        endTime: "11:30"
+        endTime: "11:30",
+        sessionIds: [203,303]
     }
     - {
         startTime: "11:30",
-        endTime: "12:15"
+        endTime: "12:15",
+        sessionIds: [307]
     }
     - {
         startTime: "12:15",
@@ -44,57 +53,39 @@
     }
     - {
         startTime: "13:00",
-        endTime: "14:00"
+        endTime: "14:00",
+        sessionIds: [003,004]
     }
     - {
         startTime: "14:00",
-        endTime: "14:20"
+        endTime: "14:20",
+        sessionIds: [204,304]
     }
     - {
         startTime: "14:20",
-        endTime: "14:40"
+        endTime: "14:40",
+        sessionIds: [205,305]
     }
     - {
         startTime: "14:40",
-        endTime: "14:50"
+        endTime: "14:50",
+        sessionIds: [307]
     }
     - {
         startTime: "14:50",
-        endTime: "15:10"
+        endTime: "15:10",
+        sessionIds: [206,306]
     }
     - {
         startTime: "15:10",
-        endTime: "16:10"
+        endTime: "16:10",
+        sessionIds: [005,006]
     }
     - {
         startTime: "16:10",
-        endTime: "16:15"
+        endTime: "16:15",
+        sessionIds: [103]
     }
 
-- 
-  date: "2021-12-03"
-  dateReadable: "December 3"
-  tracks: 
-    - {title: "Agrigenomics & Microbial Genomics and Methods Development", color: "#90be4e"}
-    - {title: "Machine Learning & Systems Biology", color: "#03a9f4"}
-  timeslots: 
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
-    }
-    - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
-    }
-    - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
-    }
+
+
