@@ -68,8 +68,8 @@ typeoutFallback: "2021"
 aboutTitle: "About #SysGen21"
 aboutBlock:
  - {title: "Student-led", image: "grad.jpeg", text: "Replace image. The format and speakers for the summit have been carefully crafted by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
- - {title: "Computational Genomics", image: "genomics.jpg", text: "text text text text" }
- - {title: "Systems Biology", image: "systems-biology-1.jpg", text: "text text text text" }
+ - {title: "Themes", image: "genomics.jpg", text: "The symposium will highlight research that falls under the umbrella of computational genomics and systems biology, with a focus on four broad research themes: Methods development and systems biology, Metagenomics and agrigenomics, Evolution and population genomics, and Health and disease genomics" }
+ - {title: "Format", image: "systems-biology-1.jpg", text: "The symposium will be an in-person event in Galway this December, with two days of talks. We will have six keynote speakers, along with poster sessions and sponsor talks." }
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -198,7 +198,9 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The first iteration of this conference was the X symposium in 2010, hosted in the Conway Institute in University College Dublin. Since then, the symposium has been a yearly event organized by PhD students in UCD, hosting researchers such as (insert big names here?). Last year, the SFI Center for Research Training in Genomics Data Science became a partner of the symposium, with several PhD students from the program joining the organizing committee along with UCD students. Due to the pandemic, the symposium was held online in 2020. This year will be a big one for the symposium, with a change of name, logo, and (hopefully) the return of in-person talks. We are looking forward to welcoming researchers to Galway in December for another round of exciting talks at the Systems Genomics Summit!"
+aboutUs: "Systems Genomics Summit 2021 is organized by a committee of PhD students from four Irish universities (UCD, TCD, NUIG, and UCC). We are supported by the PhD programs in SFI Center for Research Training in Genomics Data Science and the UCD Bioinformatics. Having all started our PhDs mid-pandemic, we look forward to welcoming you to a fantastic in-person event in Galway this December! 
+
+From left to right and top to bottom in this photo, we are Rasha Shraim (TCD), Shane Crinion (NUIG), Cosmin Tudose (UCD), Tembi Fashina (TCD), Padraic Heneghan (UCD), Donal O'Shea (NUIG), Anjan Venkatesh (UCD), Marina Villacampa Fernandez (UCD), and Sai Ravi Chandra Nori (UCC)."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
