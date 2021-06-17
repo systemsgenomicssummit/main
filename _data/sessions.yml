@@ -1,6 +1,6 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Short break"
   # place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
@@ -9,12 +9,119 @@
   title: "Lunch Break"
   # place: "Dining room"
   service: true
-
+-
+  id: 101
+  title: "Registration open & coffee available"
+  service: true
+-
+  id: 102
+  title: "Opening remarks"
+-
+  id: 103
+  title: "Closing remarks"
+-
+  id: 201
+  title: "Presentation 1"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 202
+  title: "Presentation 2"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 203
+  title: "Presentation 3"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 204
+  title: "Presentation 4"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 205
+  title: "Presentation 5"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 206
+  title: "Presentation 6"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 207
+  title: "Poster session"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 301
+  title: "Presentation 1"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 302
+  title: "Presentation 2"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 303
+  title: "Presentation 3"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 304
+  title: "Presentation 4"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 305
+  title: "Presentation 5"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 306
+  title: "Presentation 6"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 307
+  title: "Poster session"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
 -
   id: 001
   title: "Philippe Lemey"
   description: ""
-  subtype: presentation
+  subtype: keynote
   speakers: [3]
   # language: en
   theme: "Evolution and Population Genomics"
@@ -33,7 +140,7 @@
   hypothesize that it’s physical fitness, not exercise, that is pivotal to increased microbial 
   diversity. We propose to mine datasets to identify “fitness” associated microbes and 
   metabolites and investigate their implications for human health."
-  subtype: presentation
+  subtype: keynote
   speakers: [5]
   # language: en
   theme: "Metagenomics" 
@@ -43,7 +150,7 @@
   id: 003
   title: "Clare West"
   description: "Health and disease genomics"
-  subtype: presentation
+  subtype: keynote
   speakers: [6]
   # language: en
   # theme: "Intermediate" 
@@ -52,7 +159,7 @@
   id: 004
   title: "Gary Hardiman"
   description: ""
-  subtype: presentation
+  subtype: keynote
   speakers: [4]
   # language: uk
   theme: "Methods development and systems biology"

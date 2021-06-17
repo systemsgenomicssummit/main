@@ -3,8 +3,8 @@
   dateReadable: "December 2"
   tracks: 
     - {title: "Human Health & Disease", color: "#90be4e"}
-    - {title: "Population Genomics & Evolution", color: "#03a9f4"}
-    - {title: "Metagenomics", color: "#e91e63"}
+      # - {title: "Population Genomics & Evolution", color: "#03a9f4"}
+      #- {title: "Metagenomics", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "08:00",
