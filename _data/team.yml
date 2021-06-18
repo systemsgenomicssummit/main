@@ -39,22 +39,24 @@
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Rasha"
+  surname: "Shraim"
+  title: "Chairperson"
+  thumbnailUrl: rasha.png
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/rasha-shraim/"}
+    - {name: "twitter", link: "https://twitter.com/rashabun"}
+  #  - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 7
   name: "Valentyn"
   surname: "Shybanov"
   title: "Web and Cloud Program Committee"
   thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  #  subTeam: true
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
+-
+
