@@ -1,17 +1,29 @@
--
-  id: 3  
-  name: "Ifeolutembi" 
-  surname: "Fashina"
-  title: "Sponsorships"
-  thumbnailUrl: tembi.jpg
+- 
+  id: 0
+  name: "Anjan"
+  surname: "Venkatesh"
+  title: "Web Development"
+  thumbnailUrl: anjan.jpg
   subTeam: true
-  ribbon:
-    - {abbr: "CRT", title: "SFI CRT Genomics Data Science"} 
-  social:
-    - {name: "site", link: "https://ie.linkedin.com/in/ifeolutembifashina"}
-    - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/ifeolutembi-fashina/"}
-    - {name: "twitter", link: "https://twitter.com/microtemb"}
-
+  ribbon: 
+    - {abbr: "CRT", title: "SFI CRT Genomics Data Science"}
+  social: 
+    - {name: "site", link: "https://www.linkedin.com/in/anjan-venkatesh-59914b154/"}
+    - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/anjan-venkatesh/"}
+    - {name: "twitter", link: "https://twitter.com/anjanvenkatesh?lang=en"}
+-
+ id: 1
+ name: "Cosmin"
+ surname: "Tudose"
+ title: "Communications"
+ thumbnailUrl: cosmin.jpg
+ subTeam: true
+ ribbon:
+  - {abbr: "CRT", title: "SFI CRT Genomics Data Science"}
+ social:
+  - {name: "twitter", link: "https://twitter.com/cosmint_?lang=en"}
+  - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/cosmin-tudose/"}
+  - {name: "site", link: "https://ie.linkedin.com/in/cosmin-tudose"}
 - 
   id: 2
   name: "Donal"
@@ -26,33 +38,42 @@
     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
       #  - {name: "github", link: "https://github.com/zasadnyy"}
       #  - {name: "site", link: "http://zasadnyy.com/"}
-- 
-  id: 0
-  name: "Anjan"
-  surname: "Venkatesh"
-  title: "Web Development"
-  thumbnailUrl: anjan.jpg
+-
+  id: 3  
+  name: "Ifeolutembi" 
+  surname: "Fashina"
+  title: "Sponsorships"
+  thumbnailUrl: tembi.jpg
   subTeam: true
-  ribbon: 
-    - {abbr: "CRT", title: "SFI CRT Genomics Data Science"}
-  social: 
-    - {name: "site", link: "https://www.linkedin.com/in/anjan-venkatesh-59914b154/"}
-    - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/anjan-venkatesh/"}
-    - {name: "twitter", link: "https://twitter.com/anjanvenkatesh?lang=en"}
-- 
-  id: 7
-  name: "Sai Ravi"
-  surname: "Chandra Nori"
-  title: "Web Development"
-  thumbnailUrl: sai.jpg
-  subTeam: true
-  ribbon: 
-    - {abbr: "CRT", title: "SFI CRT Genomics Data Science"}
-  social: 
-    - {name: "site", link: "https://scholar.google.com/citations?user=uhJe3O4AAAAJ&hl=en"}
-    - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/sai-ravi-chandra-nori/"}
-    - {name: "site", link: "https://twitter.com/MAGs_ician"}
-- 
+  ribbon:
+    - {abbr: "CRT", title: "SFI CRT Genomics Data Science"} 
+  social:
+    - {name: "site", link: "https://ie.linkedin.com/in/ifeolutembifashina"}
+    - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/ifeolutembi-fashina/"}
+    - {name: "twitter", link: "https://twitter.com/microtemb"}
+-
+ id: 4
+ name: "Marina"
+ surname: "Villacampa Fernández"
+ title: "Sponsorships"
+ subTeam: true
+ thumbnailUrl: marina.png
+ ribbon:
+   - {abbr: "CRT", title: "SFI CRT Genomics Data Science"}
+ social:
+   - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/marina-villacampa-fernandez/"}
+-
+ id: 5
+ name: "Padraic"
+ surname: "Heneghan"
+ title: "Communications"
+ thumbnailUrl: shane.jpg
+ subteam: true
+ ribbon: 
+   - {abbr: "UCD", title: "UCD Bioinformatics and Systems Biology"}
+ social:
+   - {name: "site", link: "https://ie.linkedin.com/in/padraic-heneghan-baa03b155"}
+-
   id: 6
   name: "Rasha"
   surname: "Shraim"
@@ -65,6 +86,19 @@
     - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/rasha-shraim/"}
     - {name: "twitter", link: "https://twitter.com/rashabun"}
   #  - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 7
+  name: "Sai Ravi"
+  surname: "Chandra Nori"
+  title: "Web Development"
+  thumbnailUrl: sai.jpg
+  subTeam: true
+  ribbon: 
+    - {abbr: "CRT", title: "SFI CRT Genomics Data Science"}
+  social: 
+    - {name: "site", link: "https://scholar.google.com/citations?user=uhJe3O4AAAAJ&hl=en"}
+    - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/sai-ravi-chandra-nori/"}
+    - {name: "twitter", link: "https://twitter.com/MAGs_ician"}
 - 
   id: 8
   name: "Shane"
@@ -79,35 +113,4 @@
     - {name: "twitter", link: "https://twitter.com/shanecrinion"}
     - {name: "github", link: "https://github.com/shanecrinion"}
 -
- id: 5
- name: "Padraic"
- surname: "Heneghan"
- title: "Communications"
- thumbnailUrl: shane.jpg
- ribbon: 
-   - {abbr: "UCD", title: "UCD Bioinformatics and Systems Biology"}
- social:
-   - {name: "site", link: "https://ie.linkedin.com/in/padraic-heneghan-baa03b155"}
--
- id: 4
- name: "Marina"
- surname: "Villacampa Fernández"
- title: "Sponsorships"
- thumbnailUrl: marina.png
- ribbon:
-   - {abbr: "CRT", title: "SFI CRT Genomics Data Science"}
- social:
-   - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/marina-villacampa-fernandez/"}
--
- id: 1
- name: "Cosmin"
- surname: "Tudose"
- title: "Communications"
- thumbnailUrl: cosmin.jpg
- ribbon:
-  - {abbr: "CRT", title: "SFI CRT Genomics Data Science"}
- social:
-  - {name: "twitter", link: "https://twitter.com/cosmint_?lang=en"}
-  - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/cosmin-tudose/"}
-  - {name: "site", link: "https://ie.linkedin.com/in/cosmin-tudose"}
 
