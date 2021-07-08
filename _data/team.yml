@@ -68,7 +68,7 @@
   surname: "Heneghan"
   title: "Communications"
   thumbnailUrl: shane.jpg
-  subteam: true
+  subTeam: true
   ribbon: 
     - {abbr: "UCD", title: "UCD Bioinformatics and Systems Biology"}
   social:
