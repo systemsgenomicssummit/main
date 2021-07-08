@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
    # - {permalink: "/logistics/", text: "Logistics"}
-   # - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/hackathon/", text: "Sponsors"}
 bottomNavigationLinks:
  - {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Submit abstract"} # link to abstract submission
 rightNavigationButtons:
