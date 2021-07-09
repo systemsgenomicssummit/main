@@ -6,7 +6,7 @@
     - {name: "Systems Biology Ireland", description: "Systems Biology Ireland PhD program in Bioinformatics", link: "https://www.ucd.ie/sbi/", imageUrl: "ucd.svg"}
 
 - 
-  group: "With support of"
+  group: "With support from our sponsors"
   elements: 
     - {name: "Accuscience", description: "Accuscience", link: "https://www.accuscience.ie/", imageUrl: "Accuscience.svg", width: "120px"}
     - {name: "BioMarin", description: "BioMarin", link: "https://www.biomarin.com/", imageUrl: "biomarin.svg", width: "120px"}

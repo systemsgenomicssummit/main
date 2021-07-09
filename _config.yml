@@ -122,7 +122,7 @@ twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Sponsors"
+partnersTitle: ""
 #partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
@@ -132,8 +132,8 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration IS A TEST. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes and lunch. Accommodation is NOT included in the ticket price."
+ticketsTitle: ""
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks and lunch. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Student"
