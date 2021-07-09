@@ -50,9 +50,9 @@ navigationLinks:
    # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Sponsors"}
 bottomNavigationLinks:
- - {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Submit abstract"} # link to abstract submission
+ - {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Register"} # link to abstract submission
 rightNavigationButtons:
- - {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Submit abstract"} # link to abstract submission
+ - {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Register"} # link to abstract submission
 
 # Hero Block
 heroImage: "hero.jpg" # edit size of symp text
@@ -65,7 +65,7 @@ typeoutFallback: "2021"
  # - {permalink: "/#tickets", text: "Register"}
 
 # About Block
-aboutTitle: "About #SysGen21"
+aboutTitle: ""
 aboutBlock:
  - {title: "Student-led", image: "grad.jpeg", text: "Replace image. The format and speakers for the summit have been carefully crafted by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
  - {title: "Themes", image: "genomics.jpg", text: "The symposium will highlight research that falls under the umbrella of computational genomics and systems biology, with a focus on four broad research themes: Methods development and systems biology, Metagenomics and agrigenomics, Evolution and population genomics, and Health and disease genomics" }
@@ -75,7 +75,7 @@ aboutBlock:
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "Read more about our speakers"
 
 # Latest News Block
 latestNewsTitle: "Background"
@@ -116,7 +116,7 @@ venueFeatures: ["Host university of SFI CRT in Genomics Data Science", "Located 
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "Join the conversation"
 twitterHashTag: "SysGen21"
 twitterFeed: ""
 
@@ -140,16 +140,17 @@ ticketsOffers:
   price: "20"
   priceCurrency: "EUR"
   # ticketsNumber: "150"
+  featured: true
 # ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in."
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   #  validFrom: "2014-08-25T10:00"
   # validThrough: "2014-09-30T23:59"
  -
-  name: "Academic"
-  price: "30"
+  name: "Academic/Industry"
+  price: "40"
   priceCurrency: "EUR"
   # ticketsNumber: "100"
   # ribbon: "-20%"
@@ -161,12 +162,12 @@ ticketsOffers:
   #validThrough: "2014-10-23T23:59"
   disabled: true
  -
-  name: "Commercial"
-  price: "50"
-  priceCurrency: "EUR"
+  # name: "Commercial"
+  # price: "50"
+  # priceCurrency: "EUR"
   # ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  # buyButtonLink: "http://dfua.ticketforevent.com/"
+  # buyButtonText: "Buy Now"
   # additionalInfo: "Requires a valid student ID at the conference check in."
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   # validFrom: "2014-08-20T10:00"
