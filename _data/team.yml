@@ -78,7 +78,7 @@
   name: "Rasha"
   surname: "Shraim"
   title: "Chairperson"
-  thumbnailUrl: rasha.png
+  thumbnailUrl: rasha.jpeg
   subTeam: true
   ribbon:
     - {abbr: "CRT", title: "SFI CRT Genomics Data Science"}
