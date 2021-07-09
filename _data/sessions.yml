@@ -6,7 +6,7 @@
   description: "The best time to talk with speakers and attendees"
 -
   id: 503
-  title: "Lunch Break"
+  title: "Lunch break"
   # place: "Dining room"
   service: true
 -
@@ -21,42 +21,42 @@
   title: "Closing remarks"
 -
   id: 201
-  title: "Presentation 1"
+  title: "Presentations"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
   id: 202
-  title: "Presentation 2"
+  title: "Presentations"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
   id: 203
-  title: "Presentation 3"
+  title: "Presentations"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
   id: 204
-  title: "Presentation 4"
+  title: "Presentations"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
   id: 205
-  title: "Presentation 5"
+  title: "Presentations"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
   id: 206
-  title: "Presentation 6"
+  title: "Presentations"
   description: ""
   subtype: presentation
   #speakers:
@@ -70,42 +70,42 @@
   #theme:
 -
   id: 301
-  title: "Presentation 1"
+  title: "Presentations"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
   id: 302
-  title: "Presentation 2"
+  title: "Presentations"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
   id: 303
-  title: "Presentation 3"
+  title: "Presentations"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
   id: 304
-  title: "Presentation 4"
+  title: "Presentations"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
   id: 305
-  title: "Presentation 5"
+  title: "Presentations"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
   id: 306
-  title: "Presentation 6"
+  title: "Presentations"
   description: ""
   subtype: presentation
   #speakers:
@@ -117,7 +117,7 @@
   subtype: keynote
   speakers: [3]
   # language: en
-  theme: "Evolution and Population Genomics"
+  theme: "Evolution and population genomics"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
@@ -165,7 +165,7 @@
   subtype: keynote
   speakers: [7]
   #language: en
-  theme: "Population Genomics & Evolution"
+  theme: "Population genomics & evolution"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -175,7 +175,7 @@
   subtype: keynote
   speakers: [8]
   #language: en
-  theme: "Human Health & Disease"
+  theme: "Human health & disease"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
