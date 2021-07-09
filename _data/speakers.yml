@@ -1,6 +1,6 @@
 - 
   id: 3
-  name: "Philippe"
+  name: "Dr Philippe"
   surname: "Lemey"
   company: "K.U. Leuven"
   title: "Prinicipal Investigator"
@@ -11,7 +11,7 @@
     - {name: "twitter", link: "https://twitter.com/lemeylab"}
 - 
   id: 4
-  name: "Gary"
+  name: "Dr Gary"
   surname: "Hardiman"
   company: "Queens University Belfast"
   title: "Professor"
@@ -30,7 +30,7 @@ Hardiman serves on the editorial board of the journals ‘Pharmacogenomics’, �
  #  - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
-  name: "Orla"
+  name: "Dr Orla"
   surname: "O'Sullivan"
   company: "APC Microbiome"
   title: "Research Fellow"
@@ -45,7 +45,7 @@ Hardiman serves on the editorial board of the journals ‘Pharmacogenomics’, �
     - {name: "twitter", link: "https://twitter.com/orlaos?lang=en"}
 - 
   id: 6
-  name: "Clare"
+  name: "Dr Clare"
   surname: "West"
   company: "University of Oxford"
   title: "Postdoctoral Informatics Scientist"
@@ -59,7 +59,7 @@ Hardiman serves on the editorial board of the journals ‘Pharmacogenomics’, �
     - {name: "twitter", link: "http://twitter.com/claree_west"}
 - 
   id: 7
-  name: "Dan"
+  name: "Dr Dan"
   surname: "Bradley"
   company: "Trinity College Dublin"
   title: "Professor and Head of School of Genetics and Microbiology"
@@ -73,7 +73,7 @@ Hardiman serves on the editorial board of the journals ‘Pharmacogenomics’, �
     - {name: "site", link: "https://www.tcd.ie/Genetics/molpopgen/dan.php"}
 -
   id: 8
-  name: "Niamh"
+  name: "Dr Niamh"
   surname: "Mullins"
   company: "Icahn School of Medicine, Mount Sinai"
   title: "Associate Professor"
