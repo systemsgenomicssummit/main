@@ -67,7 +67,7 @@ typeoutFallback: "2021"
 # About Block
 aboutTitle: ""
 aboutBlock:
- - {title: "Student-led", image: "grad.jpeg", text: "Replace image. The format and speakers for the summit have been carefully crafted by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
+ - {title: "Student-led", image: "grad.jpeg", text: "The format and speakers for the summit have been carefully crafted by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
  - {title: "Themes", image: "genomics.jpg", text: "The symposium will highlight research that falls under the umbrella of computational genomics and systems biology, with a focus on four broad research themes: Methods development and systems biology, Metagenomics and agrigenomics, Evolution and population genomics, and Health and disease genomics" }
  - {title: "Format", image: "systems-biology-1.jpg", text: "The symposium will be an in-person event in Galway this December, with two days of talks. We will have six keynote speakers, along with poster sessions and sponsor talks." }
 
@@ -133,7 +133,7 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration IS A TEST. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: ""
+ticketsTitle: "Registration Info"
 ticketsInfo: "Tickets grant access to all conference sections, coffee breaks and lunch. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
@@ -252,13 +252,13 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
-hackathonTitle: "Hackathon"
+hackathonTitle: "Sponsors"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
+aboutHackathonTitle: "Meet our Sponsors"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+ - {title: "Accuscience", image: "hackathon-0.png", details: "From its headquarters in Naas, Co. Kildare, Accuscience provides a complete Sales, Marketing and Distribution service. Accuscience promotes, sells and supports a wide range of Laboratory Equipment & Consumables, Medical Technology Solutions, Point of Care Testing (POCT), Surgical Products, Blood Tracking Solutions and Blood Transfusion Equipment, reagents & services. Since its foundation in 1982, Accuscience has been a trusted and proven supplier to public and private hospitals, blood transfusion centres, pharmaceutical manufacturers and healthcare professionals."}
  - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
  - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
 
