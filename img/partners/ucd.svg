@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="svg55" inkscape:version="1.1 (c4e8f9e, 2021-05-24)" sodipodi:docname="ucd.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 387 130"
-	 style="enable-background:new 0 0 387 130;" xml:space="preserve">
-<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="namedview57" inkscape:current-layer="g61" inkscape:cx="150.45017" inkscape:cy="65.023175" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="944" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="27" inkscape:zoom="4.4599483" pagecolor="#ffffff" showgrid="false">
-	</sodipodi:namedview>
-<image style="overflow:visible;" width="959" height="323" xlink:href="../../../../../Desktop/Systems genomics summit 2021/SBI.png"  transform="matrix(0.4004 0 0 0.4004 0 -0.9875)">
-</image>
+<svg id="svg55" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="386.8606" height="130.2982" viewBox="0 0 386.8606 130.2982">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <title>ucd</title>
+  <image class="cls-1" width="959" height="323" transform="scale(0.4034)" xlink:href="../../../../../Desktop/Systems genomics summit 2021/SBI.png"/>
 </svg>
