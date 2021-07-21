@@ -72,7 +72,7 @@ aboutBlock:
  - {title: "Format", image: "systems-biology-1.jpg", text: "The symposium will be an in-person event in Galway this December, with two days of talks. We will have six keynote speakers, along with poster sessions and sponsor talks." }
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "aran-suite.jpg"
+rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "Read more about our speakers"
@@ -107,12 +107,12 @@ statisticBlock:
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "salthill-hotel.jpg"
-venueSmallImage1: "sea_view_junior_suite.jpg"
-venueSmallImage2: "exterior-daytime.jpg"
-venueSmallImage3: "aran_conference_salthill_hotel.jpg"
-venueTitle: "Salthill Hotel"
-venueFeatures: ["Located on the oceanfront promenade", "Refreshments and lunch provided"]
+venueBigImage: "NUIG_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Salthill Hotel Galway"
+venueFeatures: ["Located close to Galway city centre", "Food provided"]
 #venueFeatures: ["Host university of SFI CRT in Genomics Data Science", "Located close to Galway city centre", "Food provided"]
 
 # Tweets Feed Block
@@ -143,7 +143,7 @@ ticketsOffers:
   # ticketsNumber: "150"
   featured: true
 # ribbon: "-5%"
-buyButtonLink: "https://www.eventbrite.ie"
+  buyButtonLink: "eventbrite.com"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in."
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -156,7 +156,7 @@ buyButtonLink: "https://www.eventbrite.ie"
   # ticketsNumber: "100"
   # ribbon: "-20%"
   featured: true
-  buyButtonLink: "https://eventbrite.ie"
+  buyButtonLink: "eventbrite.com"
   buyButtonText: "Buy Now"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   # validFrom: "2014-10-01T00:00"
