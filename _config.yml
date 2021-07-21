@@ -43,10 +43,10 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "About"}
+ #- {permalink: "/blog/", text: "About"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "About"}
    # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Sponsors"}
 bottomNavigationLinks:
@@ -111,8 +111,9 @@ venueBigImage: "NUIG_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "NUI Galway"
-venueFeatures: ["Host university of SFI CRT in Genomics Data Science", "Located close to Galway city centre", "Food provided"]
+venueTitle: "Salthill Hotel Galway"
+venueFeatures: ["Located close to Galway city centre", "Food provided"]
+#venueFeatures: ["Host university of SFI CRT in Genomics Data Science", "Located close to Galway city centre", "Food provided"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
