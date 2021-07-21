@@ -54,7 +54,7 @@
 -
   id: 4
   name: "Marina"
-  surname: "Villacampa Fernández"
+  surname: "Villacampa Fdez"
   title: "Sponsorships"
   subTeam: true
   thumbnailUrl: marina.png
@@ -88,8 +88,8 @@
   #  - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 7
-  name: "Sai Ravi"
-  surname: "Chandra Nori"
+  name: "Sai Ravi Chandra"
+  surname: "Nori"
   title: "Web Development"
   thumbnailUrl: sai.jpg
   subTeam: true

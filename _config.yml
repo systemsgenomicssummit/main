@@ -46,7 +46,7 @@ navigationLinks:
  #- {permalink: "/blog/", text: "About"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "About"}
    # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Sponsors"}
 bottomNavigationLinks:
