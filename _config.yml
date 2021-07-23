@@ -51,8 +51,8 @@ navigationLinks:
  - {permalink: "/sponsors/", text: "Sponsors"}
 bottomNavigationLinks:
  - {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Register"} # link to abstract submission
-rightNavigationButtons:
- - {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Register"} # link to abstract submission
+   #rightNavigationButtons:
+   #- {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Register"} # link to abstract submission
 
 # Hero Block
 heroImage: "hero.jpg" # edit size of symp text
