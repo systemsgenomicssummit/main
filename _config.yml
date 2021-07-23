@@ -219,12 +219,11 @@ logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
+directionDetailsImage: "twitter-feed.jpg"
 directionDetailsTitle: "Get around Galway"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'Galway is a 2.5 hour journey from Dublin Airport. Many care hire options are available at the <a href="https://www.dublinairport.com/to-from-the-airport/car-rental">airport website</a>.'}
+ - {title: "Public Transit", information: 'Citylink and GoBus offer a bus service from Dublin city and Dublin Airport to Galway city. Galway city to Salthill is about a 10 minute drive/bus journey and is serviced by the 401 bus. The bus stop is located beside The Hardiman Hotel in Eyre Square. A taxi can also be picked up at this location from Big O Taxis.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -232,25 +231,11 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-
+     - {link: "https://www.salthillhotel.com/", text: "Salthill Hotel"}
+     - {link: "https://www.galwaybayhotel.net/", text: "The Galway Bay Hotel"}
+     - {link: "https://www.jurysinns.com/hotels/galway", text: "Jurys Inn"}
+     - {link: "https://www.thehardiman.ie/", text: "The Hardiman"}
+   
 # Hackathon
 hackathonTitle: "Hackathon"
 enableHackathon: true
