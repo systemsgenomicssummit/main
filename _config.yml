@@ -67,7 +67,7 @@ typeoutFallback: "2021"
 # About Block
 aboutTitle: ""
 aboutBlock:
- - {title: "Student-led", image: "grad.jpeg", text: "The format and speakers for the summit have been carefully crafted by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
+ - {title: "Student-led", image: "grad.jpeg", text: "The format and speakers for the summit have been carefully selected by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
  - {title: "Themes", image: "genomics.jpg", text: "The symposium will highlight research that falls under the umbrella of computational genomics and systems biology, with a focus on four broad research themes: Methods development and systems biology, Metagenomics and agrigenomics, Evolution and population genomics, and Health and disease genomics" }
  - {title: "Format", image: "systems-biology-1.jpg", text: "The symposium will be an in-person event in Galway this December, with two days of talks. We will have six keynote speakers, along with poster sessions and sponsor talks." }
 
@@ -134,7 +134,7 @@ subscribeInfo: "Registration IS A TEST. Number of tickets are limited. Stay tune
 
 # Tickets Block
 ticketsTitle: "Registration"
-ticketsInfo: "Registration open September 1st - November 1st. Limited tickets available. Each person has to register individually. No group registration or discounts. Tickets grant access to all symposium sessions, coffee breaks and lunch. Accommodation is NOT included in the ticket price. <br> Refunds: This conference is organised by a group of students and we use the registration fees to cover costs, as such we are unable to offer individual refunds. We are monitoring the situations and if COVID restrictions change & we cancel, we will refund all tickets. <br> Fee waivers: If you cannot afford the registration fee, please contact us at gensysbioconf@nuigalway.ie and we will consider a fee waiver."
+ticketsInfo: "Registration open September 1st - November 1st. Limited tickets available. Each person has to register individually. No group registration or discounts. Tickets grant access to all symposium sessions, coffee breaks and lunch. Accommodation is not included in the ticket price. <br><br> Refunds: This conference is organised by a group of students and we use the registration fees to cover costs, as such we are unable to offer individual refunds. We are monitoring the situations and if COVID restrictions change & we cancel, we will refund all tickets. <br><br> Fee waivers: If you cannot afford the registration fee, please contact us at gensysbioconf@nuigalway.ie and we will consider a fee waiver."
 ticketsOffers:
  -
   name: "Student"
@@ -222,11 +222,11 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "twitter-feed.jpg"
 directionDetailsTitle: "Get around Galway"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Galway is a 2.5 hour journey from Dublin Airport. Many care hire options are available at the <a href="https://www.dublinairport.com/to-from-the-airport/car-rental">airport website</a>.'}
+ - {title: "From the Airport", information: 'Galway is a 2.5 hour journey from Dublin Airport. Many car hire options are available at the <a href="https://www.dublinairport.com/to-from-the-airport/car-rental">airport website</a>.'}
  - {title: "Public Transit", information: 'Citylink and GoBus offer a bus service from Dublin city and Dublin Airport to Galway city. Galway city to Salthill is about a 10 minute drive/bus journey and is serviced by the 401 bus. The bus stop is located beside The Hardiman Hotel in Eyre Square. A taxi can also be picked up at this location from Big O Taxis.'}
 directionDetailsWideCards:
  -
-  title: "Questions?"
+  title: "Accomodation near the event"
   subCards:
    -
     title: "Hotels"
