@@ -144,7 +144,7 @@ ticketsOffers:
   featured: true
 # ribbon: "-5%"
   buyButtonLink: "eventbrite.com"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Register Now"
   additionalInfo: "Requires a valid student ID at the conference check in."
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   #  validFrom: "2014-08-25T10:00"
