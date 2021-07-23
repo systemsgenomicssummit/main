@@ -107,12 +107,12 @@ statisticBlock:
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "NUIG_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueBigImage: "salthill-hotel.jpg"
+venueSmallImage1: "exterior-daytime.jpg"
+venueSmallImage2: "lobby.jpg"
+venueSmallImage3: "aran-suite.jpg"
 venueTitle: "Salthill Hotel Galway"
-venueFeatures: ["Located close to Galway city centre", "Food provided"]
+venueFeatures: ["Located close to Galway city centre", "Lunch and refreshments provided"]
 #venueFeatures: ["Host university of SFI CRT in Genomics Data Science", "Located close to Galway city centre", "Food provided"]
 
 # Tweets Feed Block
