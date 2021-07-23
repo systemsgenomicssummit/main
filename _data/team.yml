@@ -67,7 +67,7 @@
   name: "Padraic"
   surname: "Heneghan"
   title: "Communications"
-  thumbnailUrl: shane.jpg
+  thumbnailUrl: padraic.jpeg
   subTeam: true
   ribbon: 
     - {abbr: "UCD", title: "UCD Bioinformatics and Systems Biology"}
@@ -104,7 +104,7 @@
   name: "Shane"
   surname: "Crinion"
   title: "Web Development & Venue"
-  thumbnailUrl: shane.png
+  thumbnailUrl: shane-1.jpg
   subTeam: true
   ribbon:
     - {abbr: "CRT", title: "SFI CRT Genomics Data Science"}
