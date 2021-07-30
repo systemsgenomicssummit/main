@@ -87,21 +87,21 @@
         sessionIds: [103]
     }
 -
-- 
-  date: "2021-12-03"
-  dateReadable: "December 3rd"
-  tracks:
-    - {title: "Day 2", color: "#03a9f4"}
-      #- {title: "Metagenomics", color: "#e91e63"}
-  timeslots:
-    - {
-        startTime: "08:00",
-        endTime: "09:00",
-        sessionIds: [101]
-    }
-    - {
-        startTime: "10:00",
-        endTime: "11:00",
-        sessionIds: [505]
-    }
--
+#- 
+#  date: "2021-12-03"
+#  dateReadable: "December 3rd"
+#  tracks:
+#    - {title: "Day 2", color: "#03a9f4"}
+#      #- {title: "Metagenomics", color: "#e91e63"}
+#  timeslots:
+#    - {
+#        startTime: "08:00",
+#        endTime: "09:00",
+#        sessionIds: [101]
+#    }
+#    - {
+#        startTime: "10:00",
+#        endTime: "11:00",
+#        sessionIds: [505]
+#    }
+#-
