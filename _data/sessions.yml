@@ -34,6 +34,11 @@
   #speakers:
   #theme:
 -
+  id: 505
+  title: "Test"
+  description: ""
+  subtype: presentation
+-
   id: 203
   title: "Presentations"
   description: ""
