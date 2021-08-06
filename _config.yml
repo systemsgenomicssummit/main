@@ -112,7 +112,7 @@ venueSmallImage1: "exterior-daytime.jpg"
 venueSmallImage2: "lobby.jpg"
 venueSmallImage3: "aran-suite.jpg"
 venueTitle: "Salthill Hotel Galway"
-venueFeatures: ["Oceanfront, upscale hotel located 2 km from Galway City.", "Lunch and refreshments provided."]
+venueFeatures: ["Upscale, oceanfront hotel located 2 km from Galway City.", "Lunch and refreshments provided."]
 #venueFeatures: ["Host university of SFI CRT in Genomics Data Science", "Located close to Galway city centre", "Food provided"]
 
 # Tweets Feed Block
