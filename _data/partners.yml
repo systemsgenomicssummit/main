@@ -12,9 +12,12 @@
   group: "With support from our sponsors"
   elements: 
     - {name: "Accuscience", description: "Accuscience", link: "https://www.accuscience.ie/", imageUrl: "Accuscience.svg", width: "120px"}
-    - {name: "BioMarin", description: "BioMarin", link: "https://www.biomarin.com/", imageUrl: "biomarin.svg", width: "120px"}
+      #   - {name: "BioMarin", description: "BioMarin", link: "https://www.biomarin.com/", imageUrl: "biomarin.svg", width: "120px"}
     - {name: "BioSciences Ltd", description: "BioSciences Ltd", link: "https://www.biosciences.ie/", imageUrl: "biosciences.svg", width: "120px"}
-    - {name: "Metabolon", description: "Metabolon", link: "https://www.metabolon.com/", imageUrl: "metabolon.svg", width: "120px"}
-    - {name: "Regeneron", description: "Regeneron", link: "https://www.regeneron.com/", imageUrl: "regeneron.svg", width: "120px"}
+    - {name: "Macrogen", description: "Macrogen", link: "https://www.macrogen.com/en/main/index.php", imageUrl: "macrogen.svg", width: "120px"}
+      #  - {name: "Metabolon", description: "Metabolon", link: "https://www.metabolon.com/", imageUrl: "metabolon.svg", width: "120px"}
+      # - {name: "Regeneron", description: "Regeneron", link: "https://www.regeneron.com/", imageUrl: "regeneron.svg", width: "120px"}
+    - {name: "Rstudio", description: "Rstudio", link: "https://www.rstudio.com/", imageUrl: "rstudio.svg", width: "120px"}
     - {name: "Systems Biology Ireland", description: "Systems Biology Ireland PhD program in Bioinformatics", link: "https://www.ucd.ie/sbi/", imageUrl: "ucd.svg"}
+    - {name: "VWR", description: "VWR", link: "https://ie.vwr.com/", imageUrl: "VWR.svg"}
 
