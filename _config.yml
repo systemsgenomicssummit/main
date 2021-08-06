@@ -72,7 +72,7 @@ aboutBlock:
  - {title: "Format", image: "systems-biology-1.jpg", text: "The symposium will be an in-person event in Galway this December, with two days of talks. We will have six keynote speakers, along with poster sessions and sponsor talks." }
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "speakers.jpg"
 rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "Read more about our speakers"
@@ -116,7 +116,7 @@ venueFeatures: ["Upscale, oceanfront hotel located 2 km from Galway City.", "Lun
 #venueFeatures: ["Host university of SFI CRT in Genomics Data Science", "Located close to Galway city centre", "Food provided"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "logistics.jpg"
 tweetsFeedTitle: "Join the conversation"
 twitterHashTag: "SysGen21"
 twitterFeed: ""
@@ -219,7 +219,7 @@ logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "twitter-feed.jpg"
+directionDetailsImage: "logistics.jpg"
 directionDetailsTitle: "Get around Galway"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Galway is a 2.5 hour journey from Dublin Airport. Many car hire options are available at the <a href="https://www.dublinairport.com/to-from-the-airport/car-rental">airport website</a>.'}
