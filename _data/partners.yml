@@ -3,8 +3,11 @@
   elements: 
     - {name: "SFI CRT GDS", description: "SFI Centre for Research Training in Genomics Data Science", link: "https://genomicsdatascience.ie/", imageUrl: "GDS.svg"}
     - {name: "SFI", description: "Science Foundation Ireland", link: "https://www.sfi.ie/", imageUrl: "SFI.svg"}
-    - {name: "Systems Biology Ireland", description: "Systems Biology Ireland PhD program in Bioinformatics", link: "https://www.ucd.ie/sbi/", imageUrl: "ucd.svg"}
-
+#   - {name: "Systems Biology Ireland", description: "Systems Biology Ireland PhD program in Bioinformatics", link: "https://www.ucd.ie/sbi/", imageUrl: "ucd.svg"}
+-
+  group: "Special gratitude to"
+  elements: 
+    - {name: "The Ireland Funds", link: "https://irelandfunds.org/", imageUrl: "theirelandfunds.svg" }
 - 
   group: "With support from our sponsors"
   elements: 
