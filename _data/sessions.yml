@@ -1,123 +1,149 @@
 -
-  id: 307
-  title: "Short break"
+  id: 112 # used
+  title: "Break"
   # place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  # description: "The best time to talk with speakers and attendees"
 -
-  id: 503
+  id: 204 # used
+  title: "Poster session (open until 1)"
+  # place: "Hall"
+  service: true
+  # description: "The best time to talk with speakers and attendees"
+-
+  id: 107 # used
+  title: "Lunch break"
+  # place: "Dining room"
+  service: true
+-
+  id: 210 # used
+  title: "Lunch break"
+  # place: "Dining room"
+  service: true
+-
+  id: 205 # used
   title: "Lunch break"
   # place: "Dining room"
   service: true
 -
   id: 101
-  title: "Registration open & coffee available"
+  title: "Registration & refreshments"
   service: true
 -
   id: 102
   title: "Opening remarks"
 -
-  id: 103
-  title: "Closing remarks"
+  id: 214
+  title: "Prizes and closing remarks"
 -
-  id: 201
-  title: "Presentations"
+  id: 104 # used
+  title: "Presentation"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
-  id: 202
-  title: "Presentations"
+  id: 105 # used
+  title: "Presentation"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
-  id: 505
-  title: "Test"
+  id: 108
+  title: "Sponsor talk"
   description: ""
   subtype: presentation
 -
-  id: 203
-  title: "Presentations"
+  id: 115
+  title: "Sponsor talk"
   description: ""
   subtype: presentation
-  #speakers:
-  #theme:
--
-  id: 204
-  title: "Presentations"
-  description: ""
-  subtype: presentation
-  #speakers:
-  #theme:
--
-  id: 205
-  title: "Presentations"
-  description: ""
-  subtype: presentation
-  #speakers:
-  #theme:
 -
   id: 206
-  title: "Presentations"
+  title: "Sponsor talk"
+  description: ""
+  subtype: presentation
+-
+  id: 110 # used
+  title: "Presentation"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
-  id: 207
-  title: "Poster session"
+  id: 111 # used
+  title: "Presentation"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
-  id: 301
-  title: "Presentations"
+  id: 113 #used
+  title: "Presentation"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
-  id: 302
-  title: "Presentations"
+  id: 114 # used
+  title: "Presentation"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
-  id: 303
-  title: "Presentations"
+  id: 106 # used
+  title: "Poster session (open until 1)"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
-  id: 304
-  title: "Presentations"
+  id: 202 # used
+  title: "Presentation"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
-  id: 305
-  title: "Presentations"
+  id: 203 # used
+  title: "Presentation"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
-  id: 306
-  title: "Presentations"
+  id: 208  # used
+  title: "Presentation"
   description: ""
   subtype: presentation
   #speakers:
   #theme:
 -
-  id: 001
-  title: "Philippe Lemey"
+  id: 209
+  title: "Presentation"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 211
+  title: "Presentation"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 212
+  title: "Presentation"
+  description: ""
+  subtype: presentation
+  #speakers:
+  #theme:
+-
+  id: 109 # used
+  title: "Keynote: Philippe Lemey"
   description: ""
   subtype: keynote
   speakers: [3]
@@ -125,8 +151,8 @@
   theme: "Evolution and population genomics"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 002
-  title: "Orla O'Sullivan"
+  id: 201
+  title: "Keynote: Orla O'Sullivan"
   description: "The human intestinal tract is host to an extensive population of microorganisms working in 
   concert to play a pivotal role in human health. Almost every aspect of modern lifestyles can 
   impact the gut microbiota; recently diet and fitness have been established as important 
@@ -145,8 +171,8 @@
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 003
-  title: "Clare West"
+  id: 116 # used
+  title: "Keynote: Clare West"
   description: "Health and disease genomics"
   subtype: keynote
   speakers: [6]
@@ -154,8 +180,8 @@
   # theme: "Intermediate" 
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
-  id: 004
-  title: "Gary Hardiman"
+  id: 103
+  title: "Keynote: Gary Hardiman"
   description: ""
   subtype: keynote
   speakers: [4]
@@ -164,8 +190,8 @@
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 005
-  title: "Dan Bradley"
+  id: 213
+  title: "Keynote: Dan Bradley"
   description: ""
   subtype: keynote
   speakers: [7]
@@ -174,8 +200,8 @@
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 006
-  title: "Niamh Mullins"
+  id: 207
+  title: "Keynote: Niamh Mullins"
   description: ""
   subtype: keynote
   speakers: [8]
