@@ -1,13 +1,14 @@
 <!-- About Hackathon Section -->
 <section id="about-hackathon" class="about-hackathon">
     <div class="content-wrapper">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-12 col-md-offset-2">
             <h3>{{ site.aboutHackathonTitle }}</h3>
 	    <p>This event was partially funded by Science Foundation Ireland through the SFI Centre for Research Training in Genomics Data Science under Grant number 18/CRT/6214.
 	    <br><br>
 	    This event was also partially funded by the EU’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant H2020-MSCA-COFUND-2019-945385.
 	    </p>
-
+	    <hr>
+	    <br>
 	    {% for row in site.hackathonRows %}
             {% assign check = forloop.index0 | modulo:2 %}
             <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
