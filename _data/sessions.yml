@@ -143,7 +143,7 @@
   #theme:
 -
   id: 109 # used
-  title: "Keynote: Philippe Lemey"
+  title: "Philippe Lemey"
   description: ""
   subtype: keynote
   speakers: [3]
@@ -152,7 +152,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 201
-  title: "Keynote: Orla O'Sullivan"
+  title: "Orla O'Sullivan"
   description: "The human intestinal tract is host to an extensive population of microorganisms working in 
   concert to play a pivotal role in human health. Almost every aspect of modern lifestyles can 
   impact the gut microbiota; recently diet and fitness have been established as important 
@@ -172,7 +172,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 116 # used
-  title: "Keynote: Clare West"
+  title: "Clare West"
   description: "Health and disease genomics"
   subtype: keynote
   speakers: [6]
@@ -181,7 +181,7 @@
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 103
-  title: "Keynote: Gary Hardiman"
+  title: "Gary Hardiman"
   description: ""
   subtype: keynote
   speakers: [4]
@@ -191,7 +191,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 213
-  title: "Keynote: Dan Bradley"
+  title: "Dan Bradley"
   description: ""
   subtype: keynote
   speakers: [7]
@@ -201,7 +201,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 207
-  title: "Keynote: Niamh Mullins"
+  title: "Niamh Mullins"
   description: ""
   subtype: keynote
   speakers: [8]
