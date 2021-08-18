@@ -49,8 +49,8 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/sponsors/", text: "Sponsors"}
-bottomNavigationLinks:
- - {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Register"} # link to abstract submission
+  #bottomNavigationLinks:
+ #- {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Register"} # link to abstract submission
    #rightNavigationButtons:
    #- {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Register"} # link to abstract submission
 
