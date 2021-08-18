@@ -147,8 +147,9 @@ ticketsOffers:
   buyButtonText: "Register Now"
   additionalInfo: "Requires a valid student ID at the conference check in."
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  #  validFrom: "2014-08-25T10:00"
-  # validThrough: "2014-09-30T23:59"
+  validFrom: "2021-09-01T00:00"
+  validThrough: "2021-12-01T23:59"
+  disabled: true
  -
   name: "Academic/Industry"
   price: "40"
@@ -159,9 +160,9 @@ ticketsOffers:
   buyButtonLink: "eventbrite.com"
   buyButtonText: "Register Now"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  # validFrom: "2014-10-01T00:00"
-  #validThrough: "2014-10-23T23:59"
-  # disabled: true
+  validFrom: "2021-09-01T00:00"
+  validThrough: "2021-12-01T23:59"
+  disabled: true
 
   #-
   # name: "Commercial"
