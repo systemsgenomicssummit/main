@@ -147,9 +147,11 @@ ticketsOffers:
   buyButtonText: "Register Now"
   additionalInfo: "Requires a valid student ID at the conference check in."
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2021-09-01T00:00"
-  validThrough: "2021-12-01T23:59"
+  #  validFrom: "2021-09-01T00:00"
+  #validThrough: "2021-12-01T23:59"
   disabled: true
+  soldOut: true
+  soldOutText: "Opening soon"
  -
   name: "Academic/Industry"
   price: "40"
@@ -160,10 +162,11 @@ ticketsOffers:
   buyButtonLink: "eventbrite.com"
   buyButtonText: "Register Now"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2021-09-01T00:00"
-  validThrough: "2021-12-01T23:59"
+  #validFrom: "2021-09-01T00:00"
+  #validThrough: "2021-12-01T23:59"
   disabled: true
-
+  soldOut: true
+  soldOutText: "Opening soon"
   #-
   # name: "Commercial"
   # price: "50"
