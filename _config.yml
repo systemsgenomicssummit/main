@@ -134,12 +134,12 @@ subscribeInfo: "Registration IS A TEST. Number of tickets are limited. Stay tune
 
 # Tickets Block
 ticketsTitle: "Registration"
-ticketsInfo: "Registration open September 1st - November 1st. Limited tickets available. Each person has to register individually. No group registration or discounts. Tickets grant access to all symposium sessions, coffee breaks and lunch. Accommodation is not included in the ticket price. <br><br> Refunds: This conference is organised by a group of students and we use the registration fees to cover costs, as such we are unable to offer individual refunds. We are monitoring the situations and if COVID restrictions change & we cancel, we will refund all tickets. <br><br> Fee waivers: If you cannot afford the registration fee, please contact us at gensysbioconf@nuigalway.ie and we will consider a fee waiver."
+ticketsInfo: "Registration open September 1st - November 1st. Limited tickets available. Tickets grant access to all symposium sessions, coffee breaks and lunch."
 ticketsOffers:
  -
   name: "Student"
-  price: "20"
-  priceCurrency: "EUR"
+  # price: "20"
+  # priceCurrency: "EUR"
   # ticketsNumber: "150"
   featured: true
 # ribbon: "-5%"
@@ -151,11 +151,11 @@ ticketsOffers:
   #validThrough: "2021-12-01T23:59"
   disabled: true
   soldOut: true
-  soldOutText: "Opening soon"
+  soldOutText: "No fee"
  -
   name: "Academic/Industry"
-  price: "40"
-  priceCurrency: "EUR"
+  # price: "40"
+  # priceCurrency: "EUR"
   # ticketsNumber: "100"
   # ribbon: "-20%"
   featured: true
@@ -166,7 +166,7 @@ ticketsOffers:
   #validThrough: "2021-12-01T23:59"
   disabled: true
   soldOut: true
-  soldOutText: "Opening soon"
+  soldOutText: "No fee"
   #-
   # name: "Commercial"
   # price: "50"
