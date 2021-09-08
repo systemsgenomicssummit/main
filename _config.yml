@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Systems Genomics Summit 2021"
-email: "gensysbioconf@nuigalway.ie"
+email: "sysgensummit2021@nuigalway.ie"
 description: "Systems Genomics Summit is a student-led genomics conference scheduled for December 2021 in Galway, Ireland. We are looking forward to hosting world-class speakers working on research covering different areas in genomics and systems biology. We will have talks covering a wide range of themes, including Methods Development and Systems Biology, Metagenomics and Agrigenomics, Evolution and Population Genomics, and Health and Disease Genomics. In previous years, this conference was hosted at University College Dublin (online in 2020!) as the Computational Genomics and Molecular/Systems Biology Summit."
 baseurl: "/main"
 url: "https://systemsgenomicssummit.github.io"
@@ -195,7 +195,7 @@ footerBlocks:
  -
   title: "Enquiries"
   links:
-   - {link: "mailto:gensysbioconf@nuigalway.ie", text: "gensysbioconf@nuigalway.ie"}
+   - {link: "mailto:sysgensummit2021@nuigalway.ie", text: "sysgensummit2021@nuigalway.ie"}
 # Blog
 blogTitle: "Origin and Past Events"
 blogCommentsEnabled: false
