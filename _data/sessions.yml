@@ -17,7 +17,7 @@
   service: true
 -
   id: 210 # used
-  title: "Lunch break"
+  title: "Break"
   # place: "Dining room"
   service: true
 -
@@ -41,14 +41,17 @@
   description: "The continued efficacy of antibiotics is currently uncertain due to the global dissemination of antibiotic-resistance determinants. Without urgent action, it is projected that deaths attributable to resistant infections will reach 10 million per year by 2050. Among the main antibiotic-resistant bacteria, Klebsiella pneumoniae is specially determinant in human health. The main purpose of this research is to discover novel groups of predicted antibiotic compounds by applying a chemoinformatics algorithm suited to machine learning targeting Klebsiella pneumoniae. Based on the Minimum Inhibitory Concentrations available in the ChEMBL database, 12250 compounds have been classified into active, medium and inactive compounds (1510, 1487 and 9254 compounds, respectively). For each one, the molecule's representation has been encoded into a set of 80 selected molecular descriptors that has been applied to different neural networks to predict the antibiotic activity of the compounds. To train the different networks, different numbers of layers, activation functions (ReLU, sigmoid and tanh) and optimizers (ADAM and SGD) have been applied. The results show that models trained with the sigmoid function are more unstable, those with the tanh function are slower to train than the ones with the ReLU function, and those with higher number of layers and units per layer are slower to train but have better predictive power. In the same way, the ADAM optimizer is faster than the SGD and seems to have more predictive power. A selection of those models show a high predictive power, with AUC values greater than 95% in some cases, when testing them."
   subtype: presentation
   # speakers: 
-  #theme:
+  theme: "Methods development and systems biology"
 -
   id: 105 # used
-  title: "Presentation"
-  description: ""
+  title: "Taxonomic microbial profiles of Colorectal Adenomas — Flavia Genua, UCD"
+  description: "Identifying risk factors for precancerous colorectal adenoma (CRA) development is essential for improving colorectal cancer (CRC) screening and prevention. Some adenomas can present a mucous cap that may offer a niche for bacterial growth that could contribute to dysplastic progression. Detailed investigation is required to define microbiota patterns during the CRA to CRC transition.
+We assessed the adenoma microbial profiles in colorectal neoplasia (n=14, grouping samples obtained from tissue and colonic brushes) vs control (n=9, normal mucosa at a distinct site). Furthermore, we also investigated taxonomic differences between the mucosal surface of the adenoma (n=9) and the tissue (n=5). Sequencing of V3-V4 16S rRNA region was performed to determine the bacterial composition.
+Shannon index (H) was used to calculate the alpha diversity within the samples. Although the two pathology groups did not show substantial differences, disease samples from colonic brushes of the surface of the adenoma presented a lower H compared to the fresh frozen tissues (Hmean_brushes_disease=1.27, Hmean__tissue_disease=2.47). Differential abundance analysis showed that Bacteroides intestinalis and Bacteroides fragilis were depleted in disease compared to the controls (Log2 fold changes= -1.86, = -2.49, respectively) while Prevotella (species na), Bacteroides vulgatus, Bacteroides uniformis and Alistipes massilensis were enriched in colorectal neoplasia samples (Log2 fold changes= 2.51, =2.06, =1.73, =1.39, = 1.71, =1.35, = 1.41, respectively). Eighteen species were statistically different between the mucosal surface of the adenoma and the tissue. All of them were depleted in tissue compared to the adenoma surface. Bacteroides thetaiotaomicron, Bacteroides vulgatus, Bacteroides fragilis and Alistipes putredinis presented the highest log2 fold changes (Log2 fold changes= -5.88, = -3.70, =-4.84, respectively). 
+These results indicate that the gut microbiome present on the surface of the adenoma and the microbiome in the tissue may be compositionally different. In future, a functional characterization of the microbiome combining metatranscriptomic and metagenomic in colorectal adenomas will be performed to clarify whether adenomas progression is influenced by microbial dysbiosis."
   subtype: presentation
   #speakers:
-  #theme:
+  theme: "Metagenomics, agrigenomics and microbial genomics" 
 -
   id: 108
   title: "Sponsor talk"
@@ -66,32 +69,32 @@
   subtype: presentation
 -
   id: 110 # used
-  title: "Presentation"
-  description: ""
+  title: "Better to have duplicated and lost: The landscape of paralogous protein compensation in cancer — Anjan Venkatesh, UCD"
+  description: "Gene loss is a common feature of tumour cells. It is unclear how cellular networks in tumour cells rewire to accommodate such gene loss. Paralogs (duplicate genes) may provide a means of robustness in tumour cells. Paralogs can have compensatory or 'collateral loss' relationships with each other, where one paralog is either upregulated (compensation) or downregulated (collateral loss) when the other is lost. Further, these relationships might only be observable at the protein level, not the gene/mRNA level. Here, we used the Cancer Cell Line Encyclopaedia proteomic dataset, containing expression data for 12755 proteins in 375 cancer cell lines, to identify such relationships between paralogs. We reprocessed this dataset to obtain protein quantifications using only unique peptides, i.e. peptides that only map to one protein. This was necessary since paralogs might share several peptides. We then used a regression model to look for cases where, in a paralog pair A1-A2, loss of A2 (based on mutation and transcriptomic data) was associated with a significant (FDR < 0.1) increase or decrease in A1 expression. We found 121 such cases for compensation (A1 increase) and 527 cases for collateral loss (A1 decrease). A Fisher's Exact Test showed that protein complex membership made paralog pairs significantly (p < 0.01) more likely to have a compensatory relationship. Similarly, if A2 loss was associated with an increase in A1 essentiality (based on DepMap genome-wide CRISPR screen data), it was significantly (p < 0.01) more likely that A2 loss would be associated with an increase in A1 expression."
   subtype: presentation
   #speakers:
-  #theme:
+  theme: "Human health and disease"
 -
   id: 111 # used
-  title: "Presentation"
-  description: ""
+  title: "1000-year old pathogenic mutations from Gaelic Medieval individuals with Multiple Osteochondromas — Iseult Jackson, TCD"
+  description: "A limited number of Mendelian genetic conditions are diagnosable in the archaeological record. One such condition is Multiple Osteochondromas, a rare autosomal dominant disease resulting in the formation of bony tumours in affected individuals. This has been identified in a handful of individuals from the Middle Bronze Age to the post-medieval period. Two individuals from the Gaelic Medieval cemetery of Ballyhanna, Co. Donegal (dated AD 690-885  and AD 1030-1220) showed evidence of bone tumours consistent with this condition. Whole-genome shotgun sequencing revealed a missense mutation in the second exon of the gene EXT1 in the earlier individual, which has been identified previously in present-day patients. The second individual did not carry this mutation, but a different, frameshift mutation in the first exon of the same gene was identified, leading to a premature stop and loss of function. The difference between these individuals is surprising: just 10% of modern cases are suspected to be caused by de novo mutation, and clusters of this disease have been identified in modern isolated populations, suggesting founder effects, which would have been expected in the same cemetery in northwestern Medieval Ireland."
   subtype: presentation
   #speakers:
-  #theme:
+  theme: "Evolution and population genomics"
 -
   id: 113 #used
-  title: "Presentation"
-  description: ""
+  title: "Analysing difficult genomic regions in human disease genetics — Maria de los Angeles Becerra Rodriguez, UCC"
+  description: "Segmentally duplicated regions have been systematically excluded from genetic association studies due to technical difficulties. These regions are the main source of copy number variation in the genome and are implicated in the emergence of novel genes underpinning human brain evolution and as risk factors in neuropathologies. The human Pregnancy-Specific Glycoprotein (PSG) locus on 19q32 comprises a set of segmental duplications arising from the evolution of 11 protein-coding genes with high sequence identity. PSG genes are expressed in the placenta and gut and their main functions relate to immunomodulation. In addition, the PSG locus contains several non-coding genes which are predominantly expressed in the brain. PSG8-AS1 is a great ape-specific lncRNA that we have implicated in oligodendrocyte differentiation and myelination and which could be associated with Multiple Sclerosis. Common deletions of a different region of the PSG locus may be associated with Schizophrenia, based on our preliminary analysis of publicly available datasets. The deleted region contains CEACAMP10, and interrupts PSG4, which are expressed in the brain in some cell types; and an expression quantitative trait locus (eQTL) for PAFAH1B1, a protein involved in neurogenesis."
   subtype: presentation
   #speakers:
-  #theme:
+  theme: "Human health and disease"
 -
   id: 114 # used
-  title: "Presentation"
-  description: ""
+  title: "Personalised Medicine for Colorectal Cancer Using Mechanism-Based Machine Learning Models — Annabelle Nwaokorie"
+  description: "Gaining insight into the mechanisms of signal transduction networks (STNs) by using critical features from patient-specific mathematical models can improve patient stratification and help to identify potential drug targets. To achieve this, these models should focus on the critical STNs for each cancer, include prognostic genes and proteins, and correctly predict patient-specific differences in STN activity. Focusing on colorectal cancer and the WNT STN, we used mechanism-based machine learning models to identify genes and proteins with significant associations to event-free patient survival and predictive power for explaining patient-specific differences of STN activity. First, we identified the WNT pathway as the most significant pathway associated with event-free survival. Second, we built linear-regression models that incorporated both genes and proteins from established mechanistic models in the literature and novel genes with significant associations to event-free patient survival. Data from The Cancer Genome Atlas and Clinical Proteomic Tumour Analysis Consortium were used, and patient-specific STN activity scores were computed using PROGENy. Three linear regression models were built, based on; (1) the gene-set of a state-of-the-art mechanistic model in the literature, (2) novel genes identified, and (3) novel proteins identified. The novel genes and proteins were genes and proteins of the extant WNT pathway whose expression was significantly associated with event-free survival. The results show that the predictive power of a model that incorporated novel event-free associated genes is better compared to a model focusing on the genes of a current state-of-the-art mechanistic model. Several significant genes that should be integrated into future mechanistic models of the WNT pathway are DVL3, FZD5, RAC1, ROCK2, GSK3B, CTB2, CBT1, and PRKCA. Thus, the study demonstrates that using mechanistic information in combination with machine learning can identify novel features (genes and proteins) that are important for explaining the STN heterogeneity between patients and their association to clinical outcomes."
   subtype: presentation
   #speakers:
-  #theme:
+  theme: "Methods development and systems biology"
 -
   id: 106 # used
   title: "Poster session (open until 1)"
@@ -101,15 +104,15 @@
   #theme:
 -
   id: 202 # used
-  title: "Presentation"
-  description: ""
+  title: "To Catch a Killer: Killer Plasmid and Anticodon Nuclease Discovery — Padraic Heneghan, UCD" 
+  description: "Killer plasmids are linear, double-stranded DNA virus-like elements found in several species of yeast. A yeast possessing a killer plasmid secretes toxins, anticodon nucleases (ACNases), which destroy specific tRNAs in non-killer yeasts. These ACNase toxins may be important candidates for anticancer and antimicrobial research and are hypothesized to be responsible for the unusual genetic codes used in some yeast species, where the codon CUG is read by a tRNA-Ser-CAG or a tRNA-Ala-CAG instead of tRNA-Leu-CAG. However, only 4 ACNase toxins are known, sharing ~30% amino acid identity due to rapid evolution, and none have been shown to target tRNA-Leu-CAG. Killer plasmids are rare in the natural environment (found in only 1-2% of yeast strains) and are often missing from genome sequences due to their high coverage and short length.I developed a pipeline to automatically download and assemble raw data from every publicly available budding yeast genome from the NCBI Sequence Repository Archive (SRA). We searched (TBLASTN) these clades for moderately conserved genes found within Killer Plasmids to find candidate toxins in linkage to these genes. Candidates were identified based upon the presence of a secretion signal and residues essential for toxicity. Using this approach, we have identified 29 new candidate toxin genes and 8 novel killer plasmids, with several hits demonstrating plasmid integration into the host nucleus. We will evaluate these candidate ACNases and their tRNA targets in the wet lab in the coming months."
   subtype: presentation
   #speakers:
-  #theme:
+  theme: "Metagenomics, agrigenomics and microbial genomics"
 -
   id: 203 # used
-  title: "Presentation"
-  description: ""
+  title: "Elucidation of the host bronchial lymph node and cranial lung lobe transcriptome response to Bovine Herpes Virus 1 — Stephanie O'Donoghue"
+  description: "Bovine Respiratory disease (BRD) affects cattle of all ages, causing significant morbidity and mortality in Ireland, and internationally. Bovine Herpes Virus 1 (BoHV-1), a DNA virus belonging to the Alphaherpesvirinae subfamily, is a key virus associated with disease onset. The objective of this study was to examine the response of the host’s bronchial lymph node and cranial lung lobe transcriptome to an experimental challenge with BoHV-1, using RNA-seq. Briefly, calves (Holstein-Friesian) were either administered BoHV-1 inoculate (1x107/ml x 8.5ml) (n=12) or mock challenged with sterile phosphate buffered saline (PBS) (n=6). Clinical signs were recorded daily and calves were euthanized on day 6 post challenge.  On euthanisation, lungs were scored for the presence of lesions and tissues collected. RNA was extracted from the bronchial lymph node  and cranial lung lobe tissues and sequenced (150bp paired-end). Sequenced reads were aligned to the bovine reference genome (ARS-UCD 1.2) and EdgeR was used for differential expression analysis. A clear separation was seen between the BoHV-1 challenged and control calves using multi-dimensional scaling (MDS). A total of 337 genes were differentially expressed (DE) in the bronchial lymph node between the two treatments. The healthy cranial lobe tissue displayed a total of 334 DE genes between the two treatments, and a total of 67 genes were DE in the lesioned lung lobe. Key KEGG pathways enriched for DE genes include ‘Influenza A, and ‘Herpes Simplex Infection’. Enriched gene ontology terms for the DEG’s, were involved with immune responses. An extensive investigation of the host response to BoHV-1 challenge may lead to the development of new therapeutic targets."
   subtype: presentation
   #speakers:
   #theme:
@@ -172,7 +175,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 116 # used
-  title: "Clare West"
+  title: "Keynote: Clare West"
   description: "Health and disease genomics"
   subtype: keynote
   speakers: [6]
@@ -191,7 +194,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 213
-  title: "Dan Bradley"
+  title: "Keynote: Dan Bradley"
   description: ""
   subtype: keynote
   speakers: [7]
@@ -201,7 +204,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 207
-  title: "Niamh Mullins"
+  title: "Keynote: Niamh Mullins"
   description: ""
   subtype: keynote
   speakers: [8]
