@@ -136,7 +136,7 @@ New single cell data for ~30,000 cells was added to the original dataset to give
   theme: "Human health and disease"
 -
   id: 211
-  title: "An ancient genomic profile of a Medieval Scottish cemetery —  Maeve McCann, TCD"
+  title: "An ancient genomic profile of a Medieval Scottish cemetery — Maeve McCann, TCD"
   description: "The Medieval period was a time of increased population mobility and urbanization across Europe. Despite historical accounts for the Medieval period, there is still uncertainty as to the extent to which these changes affected the demography of different regions, including Scotland. The sequencing and analysis of ancient genomes allows us to interrogate Medieval population dynamics and migration, as well as the social structures and kinship dynamics that existed within specific cemetery sites. 
 
 To this end, we examined burials from an urban graveyard within The Kirk of St.Nicholas in Medieval Aberdeen, sampling evenly from two distinct archaeological phases; phase A (from 12th -15th century) and phase B (15th-18th century). The Kirk of St.Nicholas is a significant cemetery as it was one of the largest burgh churches in Scotland and the primary place of worship in a city with increasing wealth during the Medieval period. We sequenced 30 individuals to a genomic coverage (0.01-3X), allowing us to assess kinship and inbreeding within the site, as well as the population’s broader genetic affinities to other Medieval and present-day populations. 
@@ -147,7 +147,7 @@ Using principal components analysis and formal tests of admixture, we are able t
   theme: "Evolution and population genomics"
 -
   id: 212
-  title: "Ashwini Shanmugam, RCSI"
+  title: "Extending the population genetic landscape and recent demographic history of Ireland — Ashwini Shanmugam, RCSI"
   description: "Previous studies utilising individuals annotated by geographic origin have demonstrated subtle but identifiable genetic structure within the Irish population and have detected admixture signals indicative of gene flow consistent with historical migrations into Ireland. However, these studies were individually limited by sample size, which in turn limited the resolution of their haplotype-based population structure analyses. We therefore set out to assemble a large sample of Irish ancestry references with geographic-origin annotations to expand our understanding of fine-scale genetic population structure and offer preliminary insights into the demographic history of Ireland using British comparisons.  
 
 Datasets from four studies were combined with 6724 individuals in total - Republic of Ireland (n=3274), Northern Ireland (n=102), England (n=2580), Wales (n=329), Scotland (n=210), Orkney Islands (n=193), and the Isle of Man (n=63). To our knowledge, the combined dataset contains the largest collection of Irish genotype array data with geographical provenance. Leveraging patterns of Identity-By-Descent (IBD) segment sharing, we applied the Leiden algorithm to identify genetic clusters in the dataset. Consistent with previous reports, we observed the population substructures separate along geographic boundaries. Additionally, we calculated levels of Runs-Of-Homozygosity (ROH) and IBD-sharing within these genetic clusters and inferred effective population sizes using IBDNe to reveal preliminary insights into recent demographic history.  
