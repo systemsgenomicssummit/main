@@ -111,42 +111,54 @@ These results indicate that the gut microbiome present on the surface of the ade
   theme: "Metagenomics, agrigenomics and microbial genomics"
 -
   id: 203 # used
-  title: "Elucidation of the host bronchial lymph node and cranial lung lobe transcriptome response to Bovine Herpes Virus 1 — Stephanie O'Donoghue"
+  title: "Elucidation of the host bronchial lymph node and cranial lung lobe transcriptome response to Bovine Herpes Virus 1 — Stephanie O'Donoghue, NUIG"
   description: "Bovine Respiratory disease (BRD) affects cattle of all ages, causing significant morbidity and mortality in Ireland, and internationally. Bovine Herpes Virus 1 (BoHV-1), a DNA virus belonging to the Alphaherpesvirinae subfamily, is a key virus associated with disease onset. The objective of this study was to examine the response of the host’s bronchial lymph node and cranial lung lobe transcriptome to an experimental challenge with BoHV-1, using RNA-seq. Briefly, calves (Holstein-Friesian) were either administered BoHV-1 inoculate (1x107/ml x 8.5ml) (n=12) or mock challenged with sterile phosphate buffered saline (PBS) (n=6). Clinical signs were recorded daily and calves were euthanized on day 6 post challenge.  On euthanisation, lungs were scored for the presence of lesions and tissues collected. RNA was extracted from the bronchial lymph node  and cranial lung lobe tissues and sequenced (150bp paired-end). Sequenced reads were aligned to the bovine reference genome (ARS-UCD 1.2) and EdgeR was used for differential expression analysis. A clear separation was seen between the BoHV-1 challenged and control calves using multi-dimensional scaling (MDS). A total of 337 genes were differentially expressed (DE) in the bronchial lymph node between the two treatments. The healthy cranial lobe tissue displayed a total of 334 DE genes between the two treatments, and a total of 67 genes were DE in the lesioned lung lobe. Key KEGG pathways enriched for DE genes include ‘Influenza A, and ‘Herpes Simplex Infection’. Enriched gene ontology terms for the DEG’s, were involved with immune responses. An extensive investigation of the host response to BoHV-1 challenge may lead to the development of new therapeutic targets."
   subtype: presentation
   #speakers:
   #theme:
 -
   id: 208  # used
-  title: "Presentation"
-  description: ""
+  title: "Converting single nucleotide variants between genome builds: from cautionary tale to solution — Cathal Ormond, TCD"
+  description: "Next generation sequencing studies are dependent on a high-quality reference genome for single nucleotide variant (SNV) calling. Although the two most recent builds of the human genome are widely used (GRCh37 and GRCh38), position information is typically not directly comparable between them. Tools such as liftOver and CrossMap are used to convert data from one build to another. However, the positions of converted SNVs do not always match SNVs derived from aligned data and in some instances, SNVs are known to change chromosome when converted. This inconsistency can be a significant problem for bioinformatics analyses when compiling sequencing resources or comparing results across studies.
+
+Here we describe a novel algorithm to identify positions that are unstable when converting between the above reference genome builds. This resulted in 11.3Mb of unstable positions with GRCh37 as the source and 20Mb with GRCh38 as the source. The unstable positions are detected independent of the conversion tools and are determined by the chain files. As a proof of principle, we examined SNVs derived from whole genome sequencing of two publicly available genomes aligned to both builds. Pre-excluding SNVs at these unstable positions prior to conversion results in SNVs that are stable to the conversion process. Variants at unstable positions, although fewer in number, had higher discordance rates with aligned data than variants at stable positions. This work highlights the care that must be taken when converting SNVs between genome builds and provides a simple method for ensuring higher confidence converted data. "
   subtype: presentation
   #speakers:
-  #theme:
+  theme: "Methods development and systems biology"
 -
   id: 209
-  title: "Presentation"
-  description: ""
+  title: "Using Cellular Deconvolution to Investigate Cell Subtype Proportions in Cortical Gene Expression Data in Schizophrenia — Rebecca Mahoney, NUIG"
+  description: "Schizophrenia is a psychiatric disorder that affects 1% of adults and is a major global health problem. Altered gene expression in the brain has been associated with neuropsychiatric disorders. Further analysis of gene expression data to isolate and study predicted cell types could uncover further insights into altered gene expression that contributes to schizophrenia etiology. Cellular deconvolution is used to estimate the proportion of cell subtypes present in bulk expression data. Here, we reanalyzed gene expression data from the PsychENCODE consortium (n=558 schizophrenia cases and 1039 controls; cortical samples) by using new single-cell sequencing data that allowed for an improved cellular deconvolution analysis.
+
+New single cell data for ~30,000 cells was added to the original dataset to give an increased sample of ~62,000 cells. In comparison to the original analysis, we observed alterations in astrocyte proportions between cases and controls, particularly for two distinct astrocyte populations, only one of which had significantly different proportions between cases and controls (p=<2.2e-16) with a lower proportion of cells inferred in cases. Oligodendrocytes did not have significantly different proportions between cases and controls (p=0.588) as an overall subtype but four distinct subtypes of oligodendrocytes did appear to exhibit differences in proportions (p<0.05). Overall, this analysis leveraged new single-cell data to perform a more detailed cellular deconvolution analysis of data from PsychENCODE and identified a number of distinct cell subtypes that differ in proportion between cases and controls. These can be followed up to uncover new insights into the biological functions that influence schizophrenia."
   subtype: presentation
   #speakers:
-  #theme:
+  theme: "Human health and disease"
 -
   id: 211
-  title: "Presentation"
-  description: ""
+  title: "An ancient genomic profile of a Medieval Scottish cemetery —  Maeve McCann, TCD"
+  description: "The Medieval period was a time of increased population mobility and urbanization across Europe. Despite historical accounts for the Medieval period, there is still uncertainty as to the extent to which these changes affected the demography of different regions, including Scotland. The sequencing and analysis of ancient genomes allows us to interrogate Medieval population dynamics and migration, as well as the social structures and kinship dynamics that existed within specific cemetery sites. 
+
+To this end, we examined burials from an urban graveyard within The Kirk of St.Nicholas in Medieval Aberdeen, sampling evenly from two distinct archaeological phases; phase A (from 12th -15th century) and phase B (15th-18th century). The Kirk of St.Nicholas is a significant cemetery as it was one of the largest burgh churches in Scotland and the primary place of worship in a city with increasing wealth during the Medieval period. We sequenced 30 individuals to a genomic coverage (0.01-3X), allowing us to assess kinship and inbreeding within the site, as well as the population’s broader genetic affinities to other Medieval and present-day populations. 
+
+Using principal components analysis and formal tests of admixture, we are able to identify non-local individuals, providing a window into migration dynamics at the time. We detected kinship among the burials spanning several centuries suggesting the Kirk cemetery was utilised by an extended familial group with access to prestigious burial."
   subtype: presentation
   #speakers:
-  #theme:
+  theme: "Evolution and population genomics"
 -
   id: 212
-  title: "Presentation"
-  description: ""
+  title: "Ashwini Shanmugam, RCSI"
+  description: "Previous studies utilising individuals annotated by geographic origin have demonstrated subtle but identifiable genetic structure within the Irish population and have detected admixture signals indicative of gene flow consistent with historical migrations into Ireland. However, these studies were individually limited by sample size, which in turn limited the resolution of their haplotype-based population structure analyses. We therefore set out to assemble a large sample of Irish ancestry references with geographic-origin annotations to expand our understanding of fine-scale genetic population structure and offer preliminary insights into the demographic history of Ireland using British comparisons.  
+
+Datasets from four studies were combined with 6724 individuals in total - Republic of Ireland (n=3274), Northern Ireland (n=102), England (n=2580), Wales (n=329), Scotland (n=210), Orkney Islands (n=193), and the Isle of Man (n=63). To our knowledge, the combined dataset contains the largest collection of Irish genotype array data with geographical provenance. Leveraging patterns of Identity-By-Descent (IBD) segment sharing, we applied the Leiden algorithm to identify genetic clusters in the dataset. Consistent with previous reports, we observed the population substructures separate along geographic boundaries. Additionally, we calculated levels of Runs-Of-Homozygosity (ROH) and IBD-sharing within these genetic clusters and inferred effective population sizes using IBDNe to reveal preliminary insights into recent demographic history.  
+
+We intend use the results from these analyses to help disentangle the relative effects population structure and demographic history on the genetic architecture of complex diseases, such as epilepsy or amyotrophic lateral sclerosis (ALS)."
   subtype: presentation
   #speakers:
-  #theme:
+  theme: "Evolution and population genomics"
 -
   id: 109 # used
-  title: "Philippe Lemey"
+  title: "Keynote: Philippe Lemey"
   description: ""
   subtype: keynote
   speakers: [3]
@@ -155,7 +167,7 @@ These results indicate that the gut microbiome present on the surface of the ade
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 201
-  title: "Orla O'Sullivan"
+  title: "Keynote: Orla O'Sullivan"
   description: "The human intestinal tract is host to an extensive population of microorganisms working in 
   concert to play a pivotal role in human health. Almost every aspect of modern lifestyles can 
   impact the gut microbiota; recently diet and fitness have been established as important 
@@ -165,8 +177,7 @@ These results indicate that the gut microbiome present on the surface of the ade
   energy harvest as well as muscle and tissue repair. However, a subsequent 8-week exercise 
   intervention study failed to reproduce the same high microbial diversity. This lead us to 
   hypothesize that it’s physical fitness, not exercise, that is pivotal to increased microbial 
-  diversity. We propose to mine datasets to identify “fitness” associated microbes and 
-  metabolites and investigate their implications for human health."
+  diversity. We propose to mine datasets to identify “fitness” associated microbes and metabolites and investigate their implications for human health."
   subtype: keynote
   speakers: [5]
   # language: en
@@ -176,7 +187,7 @@ These results indicate that the gut microbiome present on the surface of the ade
 -
   id: 116 # used
   title: "Keynote: Clare West"
-  description: "Health and disease genomics"
+  description: "Human health and disease"
   subtype: keynote
   speakers: [6]
   # language: en
@@ -209,7 +220,7 @@ These results indicate that the gut microbiome present on the surface of the ade
   subtype: keynote
   speakers: [8]
   #language: en
-  theme: "Human health & disease"
+  theme: "Human health and disease"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
