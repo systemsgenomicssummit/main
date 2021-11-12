@@ -37,8 +37,8 @@
   title: "Prizes and closing remarks"
 -
   id: 104 # used
-  title: "Presentation"
-  description: ""
+  title: "A machine learning approach to predict antibiotic activity targeting Klebsiella pneumoniae. <i>Marina Villacampa Fernandez, UCD.</i>"
+  description: "The continued efficacy of antibiotics is currently uncertain due to the global dissemination of antibiotic-resistance determinants. Without urgent action, it is projected that deaths attributable to resistant infections will reach 10 million per year by 2050. Among the main antibiotic-resistant bacteria, Klebsiella pneumoniae is specially determinant in human health. The main purpose of this research is to discover novel groups of predicted antibiotic compounds by applying a chemoinformatics algorithm suited to machine learning targeting Klebsiella pneumoniae. Based on the Minimum Inhibitory Concentrations available in the ChEMBL database, 12250 compounds have been classified into active, medium and inactive compounds (1510, 1487 and 9254 compounds, respectively). For each one, the molecule's representation has been encoded into a set of 80 selected molecular descriptors that has been applied to different neural networks to predict the antibiotic activity of the compounds. To train the different networks, different numbers of layers, activation functions (ReLU, sigmoid and tanh) and optimizers (ADAM and SGD) have been applied. The results show that models trained with the sigmoid function are more unstable, those with the tanh function are slower to train than the ones with the ReLU function, and those with higher number of layers and units per layer are slower to train but have better predictive power. In the same way, the ADAM optimizer is faster than the SGD and seems to have more predictive power. A selection of those models show a high predictive power, with AUC values greater than 95% in some cases, when testing them."
   subtype: presentation
   #speakers:
   #theme:
@@ -181,7 +181,7 @@
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 103
-  title: "Gary Hardiman"
+  title: "Keynote: Gary Hardiman"
   description: ""
   subtype: keynote
   speakers: [4]
