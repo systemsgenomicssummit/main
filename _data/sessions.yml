@@ -8,26 +8,25 @@
   id: 204 # used
   title: "Poster session (open until 1)"
   # place: "Hall"
-  service: true
-  description: "Single-cell characterisation of the hematopoietic bone marrow niche in health and disease. Sarah Ennis // 
+  description: "Single-cell characterisation of the hematopoietic bone marrow niche in health and disease. Sarah Ennis \\
   
-  Assessing the Role of Genomics Data in Stratifying Patients within Predictive Models for Breast Cancer Survival Outcome. Lydia King //
+  Assessing the Role of Genomics Data in Stratifying Patients within Predictive Models for Breast Cancer Survival Outcome. Lydia King \\
   
-  Genetically Predicted Circulating Concentrations of Micronutrients and COVID-19 Susceptibility and Severity: A Mendelian Randomization Study. Neil Daniel //
+  Genetically Predicted Circulating Concentrations of Micronutrients and COVID-19 Susceptibility and Severity: A Mendelian Randomization Study. Neil Daniel \\
   
-  Exploring the role of microRNA-associated variants in Multiple Sclerosis. Ifeolutembi Fashina //
+  Exploring the role of microRNA-associated variants in Multiple Sclerosis. Ifeolutembi Fashina \\
   
-  Burden for autoimmune diseases as quantified by Polygenic Risk Scoring (PRS) as a predictor for severe cutaneous adverse drug reactions attributable to aromatic anti-epileptic drugs. Isabelle Boothman //
+  Burden for autoimmune diseases as quantified by Polygenic Risk Scoring (PRS) as a predictor for severe cutaneous adverse drug reactions attributable to aromatic anti-epileptic drugs. Isabelle Boothman \\
   
-  Polygenic burden for intracranial aneurysm and hypertension in deceased kidney donors who died of intracranial haemorrhage. Kane Collins // 
+  Polygenic burden for intracranial aneurysm and hypertension in deceased kidney donors who died of intracranial haemorrhage. Kane Collins \\
   
-  Functional and population genomics of admixed trypanotolerant African cattle breeds. Gillian P. McHugo // 
+  Functional and population genomics of admixed trypanotolerant African cattle breeds. Gillian P. McHugo \\
   
-  The Search for Schizosaccharomyces fission yeasts in environmental meta-transcriptomes. Rasha Shraim //
+  The Search for Schizosaccharomyces fission yeasts in environmental meta-transcriptomes. Rasha Shraim \\
   
-  PMI - A software tool for entity based organisational modelling and biological systems analysis. Ruan O'Tiarnaigh //
+  PMI - A software tool for entity based organisational modelling and biological systems analysis. Ruan O'Tiarnaigh \\
  
- Rectal cancer-specific subtyping using transcriptomics datasets. Batuhan Kisakol //"
+ Rectal cancer-specific subtyping using transcriptomics datasets. Batuhan Kisakol"
 -
   id: 107 # used
   title: "Lunch break"
@@ -136,10 +135,9 @@ These results indicate that the gut microbiome present on the surface of the ade
 
   More accurate and unbiased associations in genetic association studies. Amanda Forde \\
 
-  Genome-wide local ancestry and direct evidence for mitonuclear co-1 adaptation in African hybrid cattle populations (Bos taurus/indicus). James A. Ward \\ "
+  Genome-wide local ancestry and direct evidence for mitonuclear co-1 adaptation in African hybrid cattle populations (Bos taurus/indicus). James A. Ward"
   #subtype: presentation
   #speakers:
-  service: true
   #theme:
 -
   id: 202 # used
