@@ -137,8 +137,9 @@ These results indicate that the gut microbiome present on the surface of the ade
   More accurate and unbiased associations in genetic association studies. Amanda Forde \\
 
   Genome-wide local ancestry and direct evidence for mitonuclear co-1 adaptation in African hybrid cattle populations (Bos taurus/indicus). James A. Ward \\ "
-  subtype: presentation
+  #subtype: presentation
   #speakers:
+  service: true
   #theme:
 -
   id: 202 # used
