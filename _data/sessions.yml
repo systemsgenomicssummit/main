@@ -9,7 +9,25 @@
   title: "Poster session (open until 1)"
   # place: "Hall"
   service: true
-  # description: "The best time to talk with speakers and attendees"
+  description: "Single-cell characterisation of the hematopoietic bone marrow niche in health and disease. Sarah Ennis // 
+  
+  Assessing the Role of Genomics Data in Stratifying Patients within Predictive Models for Breast Cancer Survival Outcome. Lydia King //
+  
+  Genetically Predicted Circulating Concentrations of Micronutrients and COVID-19 Susceptibility and Severity: A Mendelian Randomization Study. Neil Daniel //
+  
+  Exploring the role of microRNA-associated variants in Multiple Sclerosis. Ifeolutembi Fashina //
+  
+  Burden for autoimmune diseases as quantified by Polygenic Risk Scoring (PRS) as a predictor for severe cutaneous adverse drug reactions attributable to aromatic anti-epileptic drugs. Isabelle Boothman //
+  
+  Polygenic burden for intracranial aneurysm and hypertension in deceased kidney donors who died of intracranial haemorrhage. Kane Collins // 
+  
+  Functional and population genomics of admixed trypanotolerant African cattle breeds. Gillian P. McHugo // 
+  
+  The Search for Schizosaccharomyces fission yeasts in environmental meta-transcriptomes. Rasha Shraim //
+  
+  PMI - A software tool for entity based organisational modelling and biological systems analysis. Ruan O'Tiarnaigh //
+ 
+ Rectal cancer-specific subtyping using transcriptomics datasets. Batuhan Kisakol //"
 -
   id: 107 # used
   title: "Lunch break"
@@ -98,10 +116,27 @@ These results indicate that the gut microbiome present on the surface of the ade
 -
   id: 106 # used
   title: "Poster session (open until 1)"
-  description: "Long access heroin self-administration significantly alters gut microbiome diversity, structure and composition. James Mackle \\ 
+  description: "Long access heroin self-administration significantly alters gut microbiome diversity, structure and composition. James Mackle \\
+
   Fusion genes in prostate cancer. A comparison in men of African and European descent. Rebecca Morgan \\
+
   Statistical Detection of Meiotic Recombination Events. Catherine Mahoney \\
-  An automated computational pipeline for novel epileptic encephalopathy gene discovery using whole exome sequencing trios. Hamidah Ghani"
+
+  An automated computational pipeline for novel epileptic encephalopathy gene discovery using whole exome sequencing trios. Hamidah Ghani \\
+
+  The Contribution of Other hits in ND-CNV Carriers to Cognitive Outcomes. Thomas J. Dinneen \\ 
+ 
+  Harnessing the power of whole animal single cell sequencing to understand genome stability maintenance in an immortal animal. Helen Horkan \\
+
+  Gene regulatory network-inferred driver activity as a predictor of cancer cells sensitivity to gene inhibition. Cosmin Tudose \\
+
+  Representation of the Protein Coding Information in RNA transcripts with Ribosome Decision Graphs. Jack Tierney \\
+
+  Machine Learning and Multi-Omics to Predict Relapse in Inflammatory Bowel Disease. Jill O'Sullivan \\
+
+  More accurate and unbiased associations in genetic association studies. Amanda Forde \\
+
+  Genome-wide local ancestry and direct evidence for mitonuclear co-1 adaptation in African hybrid cattle populations (Bos taurus/indicus). James A. Ward \\ "
   subtype: presentation
   #speakers:
   #theme:
