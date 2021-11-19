@@ -26,7 +26,11 @@
   
   PMI - A software tool for entity based organisational modelling and biological systems analysis. Ruan O'Tiarnaigh \\
  
- Rectal cancer-specific subtyping using transcriptomics datasets. Batuhan Kisakol"
+ Rectal cancer-specific subtyping using transcriptomics datasets. Batuhan Kisakol
+ 
+ Induced torpor may offer radio-protective effects through the induction of the hypoxia response in zebrafish. Thomas Cahill \\
+ 
+ Selective and Demographic Factors associated with Neanderthal Introgressed Tract Lengths in Europeans and East Asians. Elle Loughran"
 -
   id: 107 # used
   title: "Lunch break"
@@ -107,7 +111,7 @@ These results indicate that the gut microbiome present on the surface of the ade
   theme: "Human health and disease"
 -
   id: 114 # used
-  title: "Personalised Medicine for Colorectal Cancer Using Mechanism-Based Machine Learning Models — Annabelle Nwaokorie"
+  title: "Personalised Medicine for Colorectal Cancer Using Mechanism-Based Machine Learning Models — Annabelle Nwaokorie, UCD"
   description: "Gaining insight into the mechanisms of signal transduction networks (STNs) by using critical features from patient-specific mathematical models can improve patient stratification and help to identify potential drug targets. To achieve this, these models should focus on the critical STNs for each cancer, include prognostic genes and proteins, and correctly predict patient-specific differences in STN activity. Focusing on colorectal cancer and the WNT STN, we used mechanism-based machine learning models to identify genes and proteins with significant associations to event-free patient survival and predictive power for explaining patient-specific differences of STN activity. First, we identified the WNT pathway as the most significant pathway associated with event-free survival. Second, we built linear-regression models that incorporated both genes and proteins from established mechanistic models in the literature and novel genes with significant associations to event-free patient survival. Data from The Cancer Genome Atlas and Clinical Proteomic Tumour Analysis Consortium were used, and patient-specific STN activity scores were computed using PROGENy. Three linear regression models were built, based on; (1) the gene-set of a state-of-the-art mechanistic model in the literature, (2) novel genes identified, and (3) novel proteins identified. The novel genes and proteins were genes and proteins of the extant WNT pathway whose expression was significantly associated with event-free survival. The results show that the predictive power of a model that incorporated novel event-free associated genes is better compared to a model focusing on the genes of a current state-of-the-art mechanistic model. Several significant genes that should be integrated into future mechanistic models of the WNT pathway are DVL3, FZD5, RAC1, ROCK2, GSK3B, CTB2, CBT1, and PRKCA. Thus, the study demonstrates that using mechanistic information in combination with machine learning can identify novel features (genes and proteins) that are important for explaining the STN heterogeneity between patients and their association to clinical outcomes."
   subtype: presentation
   #speakers:
