@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/sponsors/", text: "Sponsors"}
- - {permalink: "/codeoc/", text: "Decorum"}
+ - {permalink: "/decorum/", text: "Decorum"}
   #bottomNavigationLinks:
  #- {link: "https://forms.gle/fa23NKbBYhAAZsKq6", text: "Register"} # link to abstract submission
    #rightNavigationButtons:
