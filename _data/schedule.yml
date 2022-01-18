@@ -5,85 +5,80 @@
     - {title: "Day 1", color: "#90be4e"}
       # - {title: "Day 2", color: "#03a9f4"}
       #- {title: "Metagenomics", color: "#e91e63"}
-  timeslots:
+  timeslots: 
     - {
-    	startTime: "09:00",
-    	endTime: "10:00",
-    	sessionIds: [101]
-    }
-    - {
-        startTime: "10:00",
-        endTime: "10:10",
-        sessionIds: [102] 
-    } 
-    - {
-        startTime: "10:10",
-        endTime: "11:10",
+        startTime: "09:00",
+        endTime: "10:00",
         sessionIds: [103]
     }
     - { 
-       startTime: "11:10",
-       endTime: "11:30",
+       startTime: "10:00",
+       endTime: "10:20",
        sessionIds: [104]
     }
     - {
-    	startTime: "11:30",
-    	endTime: "11:50",
+    	startTime: "10:20",
+    	endTime: "10:40",
     	sessionIds: [105]
     }
     - {
-        startTime: "11:50",
-        endTime: "12:30",
+        startTime: "10:40",
+        endTime: "10:50",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "10:50",
+        endTime: "11:30",
         sessionIds: [106]
     }
     - {
-        startTime: "12:30",
-        endTime: "13:30",
+        startTime: "11:30",
+        endTime: "12:30",
         sessionIds: [107]
     }
     - {
-        startTime: "13:30",
-        endTime: "13:35",
+        startTime: "12:30",
+        endTime: "12:35",
         sessionIds: [108]
     }
     - {
-        startTime: "13:35",
-        endTime: "14:35",
+        startTime: "12:35",
+        endTime: "13:35",
         sessionIds: [109]
     }
     - {
-        startTime: "14:35",
-        endTime: "14:55",
+        startTime: "13:35",
+        endTime: "13:55",
         sessionIds: [110]
     }
     - {
-        startTime: "14:55",
-        endTime: "15:15",
+        startTime: "13:55",
+        endTime: "14:15",
         sessionIds: [111]
     }
     - {
-        startTime: "15:15",
-        endTime: "15:45",
+        startTime: "14:15",
+        endTime: "14:45",
         sessionIds: [112]
     }
     - {
-        startTime: "15:45",
-        endTime: "16:05",
+        startTime: "14:45",
+        endTime: "15:05",
         sessionIds: [113]
     }
     - {
-        startTime: "16:05",
-        endTime: "16:25",
+        startTime: "15:05",
+        endTime: "15:25",
         sessionIds: [114]
     }
     - {
-        startTime: "16:25",
-        endTime: "16:30",
+        startTime: "15:25",
+        endTime: "15:30",
         sessionIds: [115]
     }
     - {
-        startTime: "16:30",
-        endTime: "17:30",
+        startTime: "15:30",
+        endTime: "16:30",
         sessionIds: [116]
     }
 - 
