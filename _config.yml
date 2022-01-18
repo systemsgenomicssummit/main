@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Systems Genomics Summit 2021"
 email: "sysgensummit2021@nuigalway.ie"
-description: "Systems Genomics Summit is a student-led genomics conference scheduled for December 2021 in Galway, Ireland. We are looking forward to hosting world-class speakers working on research covering different areas in genomics and systems biology. We will have talks covering a wide range of themes, including Methods Development and Systems Biology, Metagenomics and Agrigenomics, Evolution and Population Genomics, and Health and Disease Genomics. In previous years, this conference was hosted at University College Dublin (online in 2020!) as the Computational Genomics and Molecular/Systems Biology Summit."
+description: "Systems Genomics Summit is a student-led genomics conference scheduled for February 2022 in Galway, Ireland. We are looking forward to hosting world-class speakers working on research covering different areas in genomics and systems biology. We will have talks covering a wide range of themes, including Methods Development and Systems Biology, Metagenomics and Agrigenomics, Evolution and Population Genomics, and Health and Disease Genomics. In previous years, this conference was hosted at University College Dublin (online in 2020!) as the Computational Genomics and Molecular/Systems Biology Summit."
 baseurl: "/main"
 url: "https://systemsgenomicssummit.github.io"
 permalink: "/blog/:title"
@@ -23,7 +23,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "CRT Genomics Data Science"
 organizerAlternateName: "SFI Centre for Research Training in Genomics Data Science"
-organizerDescription: "Systems Genomics Summit is a student-led genomics conference scheduled for December 2021 in Galway, Ireland."
+organizerDescription: "Systems Genomics Summit is a student-led genomics conference scheduled for February 2022."
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
@@ -58,9 +58,9 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg" # edit size of symp text
 heroTitle: "Systems Genomics Summit"
-eventDate: "Dec 2nd - 3rd 2021"
+eventDate: "Feb 3rd - 4th 2022"
 typeoutTextValues: '""'
-typeoutFallback: "2021"
+typeoutFallback: "2022"
 # heroButtons: # comment to remove buttons
  # - {link: "https://bit.ly/dfua-c4p", text: "Submit abstract"}
  # - {permalink: "/#tickets", text: "Register"}
