@@ -6,7 +6,7 @@
   # description: "The best time to talk with speakers and attendees"
 -
   id: 204 # used
-  title: "Poster session (open until 1)"
+  title: "Poster session"
   # place: "Hall"
   description: "Single-cell characterisation of the hematopoietic bone marrow niche in health and disease. Sarah Ennis \\
   
@@ -48,7 +48,7 @@
   service: true
 -
   id: 101
-  title: "Registration & refreshments"
+  title: "Break"
   service: true
 -
   id: 102
@@ -118,7 +118,7 @@ These results indicate that the gut microbiome present on the surface of the ade
   theme: "Methods development and systems biology"
 -
   id: 106 # used
-  title: "Poster session (open until 1)"
+  title: "Poster session"
   description: "Long access heroin self-administration significantly alters gut microbiome diversity, structure and composition. James Mackle \\
 
   Fusion genes in prostate cancer. A comparison in men of African and European descent. Rebecca Morgan \\
