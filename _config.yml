@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Registration"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/logistics/", text: "Logistics"}
+   # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/decorum/", text: "Decorum"}
   #bottomNavigationLinks:
@@ -70,7 +70,7 @@ aboutTitle: ""
 aboutBlock:
  - {title: "Student-led", image: "grad.jpeg", text: "The format and speakers for the summit have been carefully selected by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
  - {title: "Themes", image: "genomics.jpg", text: "The symposium will highlight research that falls under the umbrella of computational genomics and systems biology, with a focus on four broad research themes: Methods development and systems biology, Metagenomics and agrigenomics, Evolution and population genomics, and Health and disease genomics" }
- - {title: "Format", image: "systems-biology-1.jpg", text: "The symposium will be an in-person event in Galway this December, with two days of talks. We will have six keynote speakers, along with poster sessions and sponsor talks." }
+ - {title: "Format", image: "systems-biology-1.jpg", text: "The symposium will be an online event, with two days of talks. We will have six keynote speakers, along with poster sessions and sponsor talks." }
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "speakers.jpg"
@@ -107,13 +107,13 @@ statisticBlock:
 # mapMobileCenterCoordinates: "53.278671450000004, -9.059193370039853"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "salthillhotel-map.png"
-venueSmallImage1: "exterior-daytime.jpg"
-venueSmallImage2: "lobby.jpg"
-venueSmallImage3: "aran-suite.jpg"
-venueTitle: "Salthill Hotel Galway"
-venueFeatures: ["Upscale, oceanfront hotel located 2 km from Galway City.", "Lunch and refreshments provided."]
+#venueBlockTitle: "Venue"
+#venueBigImage: "salthillhotel-map.png"
+#venueSmallImage1: "exterior-daytime.jpg"
+#venueSmallImage2: "lobby.jpg"
+#venueSmallImage3: "aran-suite.jpg"
+#venueTitle: "Salthill Hotel Galway"
+#venueFeatures: ["Upscale, oceanfront hotel located 2 km from Galway City.", "Lunch and refreshments provided."]
 #venueFeatures: ["Host university of SFI CRT in Genomics Data Science", "Located close to Galway city centre", "Food provided"]
 
 # Tweets Feed Block
@@ -135,7 +135,7 @@ subscribeInfo: "Registration IS A TEST. Number of tickets are limited. Stay tune
 
 # Tickets Block
 ticketsTitle: "Registration"
-ticketsInfo: "Registration open September 1st - November 1st. Limited tickets available. Tickets grant access to all symposium sessions, coffee breaks and lunch."
+ticketsInfo: "Registration open September 1st - November 1st. Limited tickets available."
 ticketsOffers:
  -
   name: "Student"
@@ -207,7 +207,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Systems Genomics Summit 2021 is organized by a committee of PhD students from five Irish universities (NUIG, RCSI, TCD, UCC and UCD). We are supported by the PhD programs in SFI Center for Research Training in Genomics Data Science and the UCD Bioinformatics. Having all started our PhDs mid-pandemic, we look forward to welcoming you to a fantastic in-person event in Galway this December! 
+aboutUs: "Systems Genomics Summit 2021 is organized by a committee of PhD students from five Irish universities (NUIG, RCSI, TCD, UCC and UCD). We are supported by the PhD programs in SFI Center for Research Training in Genomics Data Science and the UCD Bioinformatics. Having all started our PhDs mid-pandemic, we look forward to welcoming you to a fantastic event online this February! 
 
 We are Rasha Shraim (TCD), Shane Crinion (NUIG), Cosmin Tudose (UCD), Tembi Fashina (RCSI), Padraic Heneghan (UCD), Donal O'Shea (NUIG), Anjan Venkatesh (UCD), Marina Villacampa Fernandez (UCD), and Sai Ravi Chandra Nori (UCC)."
 
