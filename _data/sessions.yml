@@ -161,7 +161,6 @@ These results indicate that the gut microbiome present on the surface of the ade
   id: 208  # used
   title: "Converting single nucleotide variants between genome builds: from cautionary tale to solution — Cathal Ormond, TCD"
   description: "Next generation sequencing studies are dependent on a high-quality reference genome for single nucleotide variant (SNV) calling. Although the two most recent builds of the human genome are widely used (GRCh37 and GRCh38), position information is typically not directly comparable between them. Tools such as liftOver and CrossMap are used to convert data from one build to another. However, the positions of converted SNVs do not always match SNVs derived from aligned data and in some instances, SNVs are known to change chromosome when converted. This inconsistency can be a significant problem for bioinformatics analyses when compiling sequencing resources or comparing results across studies.
-
 Here we describe a novel algorithm to identify positions that are unstable when converting between the above reference genome builds. This resulted in 11.3Mb of unstable positions with GRCh37 as the source and 20Mb with GRCh38 as the source. The unstable positions are detected independent of the conversion tools and are determined by the chain files. As a proof of principle, we examined SNVs derived from whole genome sequencing of two publicly available genomes aligned to both builds. Pre-excluding SNVs at these unstable positions prior to conversion results in SNVs that are stable to the conversion process. Variants at unstable positions, although fewer in number, had higher discordance rates with aligned data than variants at stable positions. This work highlights the care that must be taken when converting SNVs between genome builds and provides a simple method for ensuring higher confidence converted data. "
   subtype: presentation
   #speakers:
@@ -208,7 +207,7 @@ We intend use the results from these analyses to help disentangle the relative e
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 201
-  title: "Orla O'Sullivan"
+  title: "The Diet-Fitness-Gut Microbiome Paradigm"
   description: "The human intestinal tract is host to an extensive population of microorganisms working in 
   concert to play a pivotal role in human health. Almost every aspect of modern lifestyles can 
   impact the gut microbiota; recently diet and fitness have been established as important 
@@ -227,7 +226,7 @@ We intend use the results from these analyses to help disentangle the relative e
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 116 # used
-  title: "Clare West"
+  title: "Computational Biology and Drug Discovery: From sequence to protein to drug"
   description: "Human health and disease"
   subtype: keynote
   speakers: [6]
@@ -236,7 +235,7 @@ We intend use the results from these analyses to help disentangle the relative e
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 103
-  title: "Gary Hardiman"
+  title: "SpaceOmics, Aging and Prostate Cancer - A systems biology perspective"
   description: ""
   subtype: keynote
   speakers: [4]
